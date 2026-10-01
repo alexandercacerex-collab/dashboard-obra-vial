@@ -1,0 +1,32 @@
+ENTREGA FINAL
+
+"
+    "Archivos que deben aparecer en GitHub:
+"
+    "- app.py
+"
+    "- base_obra_vial_ia.csv
+"
+    "- base_obra_vial_ia.sqlite
+"
+    "- generar_base.py
+"
+    "- notebook_entrega_final.ipynb
+"
+    "- requirements.txt
+"
+    "- README.md
+
+"
+    "STREAMLIT
+"
+    "Repository: tu repositorio GitHub
+"
+    "Branch: main
+"
+    "Main file path: app.py
+
+"
+    "Al finalizar, copiar el enlace https://...streamlit.app
+"
+    

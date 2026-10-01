@@ -1,0 +1,853 @@
+﻿id_registro,fecha,frente,partida,unidad,equipo_principal,personal,produccion_programada,produccion_real,cumplimiento_pct,horas_equipo,horas_parada,costo_programado_soles,costo_real_soles,incidencia,control_calidad
+OV-00001,2026-01-01,Frente 02,Pavimento asfáltico,t,Motoniveladora,7,296.03,245.08,82.79,10.86,0.26,54765.43,48029.14,Sin incidencia,Observado
+OV-00002,2026-01-01,Frente 03,Excavación roca fija,m3,Rodillo,8,427.23,356.12,83.36,8.69,1.11,11962.32,10452.43,Sin incidencia,Conforme
+OV-00003,2026-01-01,Frente 02,Cunetas de concreto,m,Rodillo,7,116.38,91.18,78.34,11.01,1.03,16874.99,13819.73,Cambio de frente,Conforme
+OV-00004,2026-01-02,Frente 02,Excavación roca fija,m3,Excavadora,8,439.43,465.99,106.04,9.57,1.38,12303.97,13567.38,Espera de topografía,Conforme
+OV-00005,2026-01-02,Frente 01,Pavimento asfáltico,t,Cargador frontal,7,320.57,206.18,64.32,5.65,0.2,59306.15,38839.93,Sin incidencia,Conforme
+OV-00006,2026-01-02,Frente 03,Desbroce y limpieza,m2,Motoniveladora,4,1747.95,1750.62,100.15,7.46,0.9,4894.25,5297.0,Sin incidencia,Conforme
+OV-00007,2026-01-03,Frente 02,Cunetas de concreto,m,Motoniveladora,7,121.18,80.17,66.16,8.99,0.77,17570.69,11653.43,Sin incidencia,Conforme
+OV-00008,2026-01-03,Frente 01,Subbase granular,m3,Motoniveladora,8,515.86,555.75,107.73,11.05,0.75,16507.55,19352.57,Sin incidencia,Conforme
+OV-00009,2026-01-04,Frente 03,Pavimento asfáltico,t,Cargador frontal,6,275.18,139.0,50.51,7.25,0.88,50908.91,28087.29,Sin incidencia,Conforme
+OV-00010,2026-01-04,Frente 01,Base granular,m3,Volquete,8,429.19,329.03,76.66,8.39,0.0,16309.28,13503.99,Sin incidencia,Observado
+OV-00011,2026-01-04,Frente 01,Cunetas de concreto,m,Motoniveladora,6,119.81,91.05,76.0,11.19,0.9,17373.0,13983.9,Sin incidencia,Conforme
+OV-00012,2026-01-05,Frente 03,Excavación material suelto,m3,Rodillo,6,915.48,918.25,100.3,9.98,0.46,8697.06,8906.33,Falla mecánica,Conforme
+OV-00013,2026-01-05,Frente 02,Subbase granular,m3,Cargador frontal,6,534.38,456.28,85.38,9.76,0.74,17100.3,14824.69,Sin incidencia,Conforme
+OV-00014,2026-01-05,Frente 01,Excavación roca fija,m3,Cargador frontal,7,446.17,377.48,84.61,8.97,0.0,12492.75,10758.7,Sin incidencia,Conforme
+OV-00015,2026-01-05,Frente 03,Base granular,m3,Motoniveladora,9,454.0,475.03,104.63,8.95,0.98,17251.91,19751.6,Clima,Conforme
+OV-00016,2026-01-06,Frente 03,Pavimento asfáltico,t,Cargador frontal,7,302.95,236.46,78.05,7.83,0.52,56045.94,44564.21,Cambio de frente,Observado
+OV-00017,2026-01-06,Frente 03,Cunetas de concreto,m,Cargador frontal,8,111.6,110.84,99.32,9.74,0.59,16182.1,16209.16,Cambio de frente,Conforme
+OV-00018,2026-01-07,Frente 03,Subbase granular,m3,Motoniveladora,7,506.59,397.55,78.48,9.72,0.62,16210.93,13414.39,Cambio de frente,Conforme
+OV-00019,2026-01-07,Frente 03,Pavimento asfáltico,t,Cargador frontal,8,303.73,237.62,78.24,8.35,0.36,56189.67,48043.48,Sin incidencia,Conforme
+OV-00020,2026-01-07,Frente 01,Base granular,m3,Pavimentadora,7,447.92,223.96,50.0,8.96,0.14,17020.92,9309.53,Sin incidencia,Conforme
+OV-00021,2026-01-08,Frente 02,Subbase granular,m3,Volquete,9,504.92,525.62,104.1,8.06,0.92,16157.6,18207.02,Espera de topografía,Conforme
+OV-00022,2026-01-08,Frente 03,Desbroce y limpieza,m2,Motoniveladora,9,1811.47,1509.09,83.31,10.26,1.0,5072.11,4487.82,Sin incidencia,Conforme
+OV-00023,2026-01-09,Frente 01,Subbase granular,m3,Cargador frontal,9,523.25,433.43,82.83,7.97,0.24,16744.05,14666.03,Falla mecánica,Conforme
+OV-00024,2026-01-09,Frente 01,Cunetas de concreto,m,Motoniveladora,8,109.96,104.28,94.83,8.15,0.37,15944.22,15688.71,Sin incidencia,Observado
+OV-00025,2026-01-09,Frente 03,Desbroce y limpieza,m2,Motoniveladora,7,1762.77,1456.69,82.64,10.57,0.48,4935.76,4481.4,Sin incidencia,Conforme
+OV-00026,2026-01-09,Frente 03,Pavimento asfáltico,t,Cargador frontal,4,292.47,309.81,105.93,9.88,1.2,54106.91,57421.67,Espera de topografía,Conforme
+OV-00027,2026-01-10,Frente 03,Excavación roca fija,m3,Rodillo,8,429.29,453.34,105.6,7.94,1.52,12020.21,13756.56,Espera de topografía,Conforme
+OV-00028,2026-01-10,Frente 03,Desbroce y limpieza,m2,Motoniveladora,7,1838.89,1824.33,99.21,8.08,0.83,5148.89,5235.7,Sin incidencia,Conforme
+OV-00029,2026-01-10,Frente 01,Pavimento asfáltico,t,Motoniveladora,6,310.99,275.67,88.64,10.9,1.4,57532.82,52872.51,Clima,Conforme
+OV-00030,2026-01-11,Frente 02,Pavimento asfáltico,t,Volquete,4,314.14,208.26,66.3,8.87,0.38,58115.19,40551.29,Cambio de frente,Conforme
+OV-00031,2026-01-11,Frente 02,Base granular,m3,Cargador frontal,5,455.39,459.23,100.84,9.14,0.2,17304.99,17728.26,Sin incidencia,Conforme
+OV-00032,2026-01-11,Frente 01,Excavación material suelto,m3,Excavadora,8,966.57,941.26,97.38,7.56,0.64,9182.4,9748.64,Falla mecánica,Conforme
+OV-00033,2026-01-12,Frente 01,Subbase granular,m3,Motoniveladora,6,544.04,530.86,97.58,6.33,0.54,17409.32,17932.69,Sin incidencia,Conforme
+OV-00034,2026-01-12,Frente 02,Cunetas de concreto,m,Excavadora,7,117.52,74.98,63.8,9.68,0.97,17039.73,11923.87,Sin incidencia,Conforme
+OV-00035,2026-01-12,Frente 02,Excavación material suelto,m3,Cargador frontal,8,851.13,975.06,114.56,8.61,1.58,8085.69,9307.73,Espera de topografía,Conforme
+OV-00036,2026-01-12,Frente 03,Excavación roca fija,m3,Rodillo,6,410.33,425.77,103.76,9.65,0.98,11489.37,12623.05,Sin incidencia,Observado
+OV-00037,2026-01-13,Frente 03,Pavimento asfáltico,t,Volquete,7,315.29,316.6,100.42,9.9,0.24,58329.34,60322.32,Abastecimiento de material,Conforme
+OV-00038,2026-01-13,Frente 02,Excavación material suelto,m3,Rodillo,5,928.94,848.03,91.29,7.56,1.49,8824.96,8419.06,Sin incidencia,Conforme
+OV-00039,2026-01-13,Frente 02,Base granular,m3,Rodillo,5,429.41,300.98,70.09,8.62,1.19,16317.62,11678.95,Cambio de frente,Conforme
+OV-00040,2026-01-13,Frente 03,Excavación roca fija,m3,Excavadora,7,421.39,383.67,91.05,8.54,2.16,11798.96,11093.6,Sin incidencia,Conforme
+OV-00041,2026-01-14,Frente 01,Excavación roca fija,m3,Excavadora,7,431.95,424.38,98.25,8.44,0.0,12094.61,12896.45,Clima,Conforme
+OV-00042,2026-01-14,Frente 02,Cunetas de concreto,m,Pavimentadora,4,114.91,87.43,76.08,8.22,0.27,16661.9,13776.68,Sin incidencia,Conforme
+OV-00043,2026-01-14,Frente 01,Subbase granular,m3,Excavadora,7,573.49,482.92,84.21,8.44,1.51,18351.65,15738.55,Sin incidencia,Conforme
+OV-00044,2026-01-14,Frente 01,Base granular,m3,Motoniveladora,7,471.11,372.08,78.98,9.58,1.68,17902.18,14942.08,Sin incidencia,Conforme
+OV-00045,2026-01-15,Frente 02,Desbroce y limpieza,m2,Rodillo,4,1753.8,1506.83,85.92,10.27,0.38,4910.63,4561.99,Sin incidencia,Conforme
+OV-00046,2026-01-15,Frente 03,Subbase granular,m3,Cargador frontal,8,529.84,584.49,110.31,8.06,0.79,16954.98,20300.39,Sin incidencia,Conforme
+OV-00047,2026-01-15,Frente 03,Pavimento asfáltico,t,Motoniveladora,7,305.65,304.6,99.66,8.24,1.55,56544.9,60745.72,Abastecimiento de material,Conforme
+OV-00048,2026-01-15,Frente 02,Excavación material suelto,m3,Pavimentadora,9,953.48,789.21,82.77,8.91,0.59,9058.06,7937.45,Falla mecánica,Conforme
+OV-00049,2026-01-16,Frente 02,Excavación material suelto,m3,Volquete,7,980.61,740.77,75.54,9.3,0.66,9315.81,7513.27,Cambio de frente,Conforme
+OV-00050,2026-01-16,Frente 03,Pavimento asfáltico,t,Rodillo,7,300.94,333.26,110.74,10.2,1.75,55674.41,62215.77,Abastecimiento de material,Conforme
+OV-00051,2026-01-16,Frente 03,Base granular,m3,Volquete,9,447.99,350.05,78.14,9.44,1.42,17023.61,14114.36,Sin incidencia,Conforme
+OV-00052,2026-01-16,Frente 01,Desbroce y limpieza,m2,Rodillo,7,1879.87,1674.36,89.07,6.88,0.08,5263.63,4749.14,Abastecimiento de material,Conforme
+OV-00053,2026-01-17,Frente 01,Base granular,m3,Cargador frontal,6,435.2,315.98,72.61,9.62,1.6,16537.64,12261.53,Espera de topografía,Conforme
+OV-00054,2026-01-17,Frente 03,Excavación roca fija,m3,Volquete,7,420.26,330.77,78.71,8.76,0.95,11767.24,9429.06,Espera de topografía,Observado
+OV-00055,2026-01-17,Frente 01,Desbroce y limpieza,m2,Motoniveladora,8,1898.53,1516.36,79.87,8.73,1.65,5315.9,4581.52,Sin incidencia,Conforme
+OV-00056,2026-01-17,Frente 03,Pavimento asfáltico,t,Rodillo,7,322.57,285.08,88.38,9.22,0.48,59675.44,52806.85,Sin incidencia,Conforme
+OV-00057,2026-01-18,Frente 01,Subbase granular,m3,Pavimentadora,4,506.85,516.7,101.94,9.83,0.99,16219.32,16749.49,Sin incidencia,Conforme
+OV-00058,2026-01-18,Frente 02,Pavimento asfáltico,t,Rodillo,9,313.1,225.37,71.98,9.47,0.83,57923.01,43678.2,Sin incidencia,Conforme
+OV-00059,2026-01-18,Frente 01,Desbroce y limpieza,m2,Motoniveladora,4,1750.31,1569.7,89.68,10.57,0.97,4900.87,4664.44,Abastecimiento de material,Conforme
+OV-00060,2026-01-19,Frente 01,Cunetas de concreto,m,Excavadora,9,106.01,91.53,86.34,9.81,0.75,15371.55,14056.67,Sin incidencia,Conforme
+OV-00061,2026-01-19,Frente 02,Pavimento asfáltico,t,Rodillo,6,319.45,383.34,120.0,8.77,0.88,59098.17,74133.87,Sin incidencia,Conforme
+OV-00062,2026-01-19,Frente 01,Excavación material suelto,m3,Pavimentadora,7,985.22,734.68,74.57,10.03,1.32,9359.63,7260.51,Sin incidencia,Conforme
+OV-00063,2026-01-20,Frente 02,Desbroce y limpieza,m2,Cargador frontal,4,1807.31,1424.56,78.82,12.0,0.23,5060.48,4192.88,Sin incidencia,Conforme
+OV-00064,2026-01-20,Frente 02,Subbase granular,m3,Excavadora,4,516.15,431.93,83.68,8.96,0.0,16516.65,14859.7,Sin incidencia,Conforme
+OV-00065,2026-01-20,Frente 01,Excavación roca fija,m3,Cargador frontal,4,415.82,427.29,102.76,12.0,0.78,11642.85,12973.86,Sin incidencia,Conforme
+OV-00066,2026-01-20,Frente 03,Excavación material suelto,m3,Pavimentadora,9,902.09,664.78,73.69,9.61,1.75,8569.84,6868.07,Sin incidencia,Observado
+OV-00067,2026-01-21,Frente 01,Desbroce y limpieza,m2,Volquete,7,1872.81,1339.02,71.5,9.69,0.75,5243.87,3793.46,Clima,Conforme
+OV-00068,2026-01-21,Frente 03,Base granular,m3,Motoniveladora,9,457.28,390.37,85.37,9.17,1.44,17376.61,16128.49,Sin incidencia,Conforme
+OV-00069,2026-01-21,Frente 01,Excavación material suelto,m3,Excavadora,6,954.42,879.66,92.17,8.79,1.35,9066.98,8498.07,Sin incidencia,Conforme
+OV-00070,2026-01-21,Frente 01,Subbase granular,m3,Excavadora,9,520.52,431.23,82.85,8.03,0.0,16656.76,14281.88,Sin incidencia,Conforme
+OV-00071,2026-01-22,Frente 02,Pavimento asfáltico,t,Volquete,7,317.42,325.71,102.61,9.52,0.14,58722.69,61254.79,Sin incidencia,Observado
+OV-00072,2026-01-22,Frente 01,Excavación roca fija,m3,Pavimentadora,6,414.49,374.58,90.37,11.96,0.82,11605.78,10896.55,Abastecimiento de material,Conforme
+OV-00073,2026-01-23,Frente 01,Cunetas de concreto,m,Rodillo,8,114.23,112.01,98.06,9.49,1.11,16562.78,17011.58,Clima,Conforme
+OV-00074,2026-01-23,Frente 01,Excavación material suelto,m3,Rodillo,9,941.38,821.05,87.22,7.5,0.76,8943.09,8182.48,Sin incidencia,Conforme
+OV-00075,2026-01-23,Frente 02,Subbase granular,m3,Cargador frontal,5,517.74,478.34,92.39,8.21,0.18,16567.73,15572.14,Falla mecánica,Conforme
+OV-00076,2026-01-24,Frente 01,Pavimento asfáltico,t,Volquete,4,290.18,267.66,92.24,9.27,1.1,53684.17,50266.1,Sin incidencia,Conforme
+OV-00077,2026-01-24,Frente 03,Cunetas de concreto,m,Motoniveladora,6,112.26,83.42,74.32,8.34,0.92,16277.02,13054.05,Sin incidencia,Conforme
+OV-00078,2026-01-24,Frente 01,Excavación roca fija,m3,Volquete,7,419.47,483.78,115.33,10.33,0.0,11745.21,14156.9,Sin incidencia,Conforme
+OV-00079,2026-01-24,Frente 01,Base granular,m3,Pavimentadora,5,428.93,382.18,89.1,9.33,1.23,16299.3,14550.93,Falla mecánica,Conforme
+OV-00080,2026-01-25,Frente 03,Excavación material suelto,m3,Pavimentadora,5,980.68,891.78,90.93,9.26,1.16,9316.47,9016.49,Sin incidencia,Conforme
+OV-00081,2026-01-25,Frente 02,Pavimento asfáltico,t,Volquete,9,298.58,205.9,68.96,8.29,0.68,55237.81,38978.45,Cambio de frente,Conforme
+OV-00082,2026-01-25,Frente 02,Cunetas de concreto,m,Excavadora,6,123.22,131.94,107.08,7.99,0.48,17867.18,19452.74,Espera de topografía,Conforme
+OV-00083,2026-01-26,Frente 01,Pavimento asfáltico,t,Motoniveladora,5,321.99,300.52,93.33,8.57,0.85,59568.42,59604.56,Abastecimiento de material,Conforme
+OV-00084,2026-01-26,Frente 01,Desbroce y limpieza,m2,Motoniveladora,5,1772.15,1633.31,92.17,10.56,1.1,4962.01,4788.95,Sin incidencia,Conforme
+OV-00085,2026-01-26,Frente 03,Subbase granular,m3,Volquete,8,530.3,599.09,112.97,11.51,0.0,16969.64,20681.95,Abastecimiento de material,Conforme
+OV-00086,2026-01-26,Frente 03,Base granular,m3,Excavadora,8,484.71,398.62,82.24,9.14,0.0,18418.82,15919.89,Sin incidencia,Conforme
+OV-00087,2026-01-27,Frente 03,Pavimento asfáltico,t,Motoniveladora,4,301.25,312.3,103.67,10.12,0.36,55730.89,58091.05,Abastecimiento de material,Conforme
+OV-00088,2026-01-27,Frente 03,Desbroce y limpieza,m2,Excavadora,9,1852.12,1289.23,69.61,9.06,0.78,5185.92,3852.26,Espera de topografía,Conforme
+OV-00089,2026-01-27,Frente 02,Excavación material suelto,m3,Volquete,8,992.9,1191.49,120.0,7.93,0.15,9432.6,11722.36,Sin incidencia,Conforme
+OV-00090,2026-01-27,Frente 03,Subbase granular,m3,Volquete,7,496.64,512.33,103.16,8.63,0.55,15892.55,17356.44,Sin incidencia,Conforme
+OV-00091,2026-01-28,Frente 03,Subbase granular,m3,Motoniveladora,9,525.44,397.23,75.6,11.96,0.23,16814.17,13964.82,Sin incidencia,Conforme
+OV-00092,2026-01-28,Frente 02,Excavación roca fija,m3,Excavadora,7,470.4,507.88,107.97,6.66,0.71,13171.2,15314.18,Sin incidencia,Conforme
+OV-00093,2026-01-28,Frente 03,Pavimento asfáltico,t,Motoniveladora,5,299.24,237.52,79.37,9.71,0.71,55360.11,44430.59,Sin incidencia,Conforme
+OV-00094,2026-01-29,Frente 02,Desbroce y limpieza,m2,Pavimentadora,4,1730.75,1707.7,98.67,8.75,0.0,4846.1,5177.2,Sin incidencia,Conforme
+OV-00095,2026-01-29,Frente 03,Base granular,m3,Cargador frontal,9,494.59,402.24,81.33,10.02,0.28,18794.41,15955.96,Sin incidencia,Conforme
+OV-00096,2026-01-29,Frente 03,Subbase granular,m3,Rodillo,4,492.85,312.98,63.5,8.09,0.55,15771.1,10573.91,Espera de topografía,Conforme
+OV-00097,2026-01-30,Frente 03,Pavimento asfáltico,t,Rodillo,9,324.85,282.26,86.89,9.24,0.0,60098.03,55673.51,Sin incidencia,Conforme
+OV-00098,2026-01-30,Frente 02,Cunetas de concreto,m,Motoniveladora,9,106.08,85.08,80.21,8.16,1.16,15382.04,13569.36,Clima,Conforme
+OV-00099,2026-01-30,Frente 03,Subbase granular,m3,Volquete,6,496.48,325.3,65.52,9.34,0.5,15887.31,10480.34,Falla mecánica,Conforme
+OV-00100,2026-01-31,Frente 01,Desbroce y limpieza,m2,Excavadora,8,1825.17,1740.79,95.38,9.22,1.11,5110.48,4886.1,Espera de topografía,Conforme
+OV-00101,2026-01-31,Frente 01,Base granular,m3,Rodillo,5,417.31,428.35,102.64,10.17,0.75,15857.93,17711.96,Sin incidencia,Conforme
+OV-00102,2026-01-31,Frente 01,Pavimento asfáltico,t,Volquete,9,316.92,380.31,120.0,7.02,1.32,58630.43,73403.22,Abastecimiento de material,Conforme
+OV-00103,2026-01-31,Frente 01,Cunetas de concreto,m,Cargador frontal,8,116.85,94.85,81.17,8.05,1.32,16943.37,14094.74,Abastecimiento de material,Conforme
+OV-00104,2026-02-01,Frente 01,Excavación material suelto,m3,Volquete,8,859.54,1007.57,117.22,9.27,1.14,8165.63,10463.58,Abastecimiento de material,Conforme
+OV-00105,2026-02-01,Frente 01,Pavimento asfáltico,t,Rodillo,5,314.89,331.58,105.3,7.94,1.29,58254.56,66473.29,Clima,Conforme
+OV-00106,2026-02-01,Frente 02,Cunetas de concreto,m,Pavimentadora,6,112.55,106.71,94.81,7.71,0.0,16319.45,15838.42,Sin incidencia,Conforme
+OV-00107,2026-02-02,Frente 01,Excavación material suelto,m3,Volquete,8,1053.9,864.0,81.98,8.35,0.1,10012.04,8304.7,Espera de topografía,Conforme
+OV-00108,2026-02-02,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,299.84,327.95,109.37,7.91,1.33,55470.9,65533.03,Sin incidencia,Conforme
+OV-00109,2026-02-02,Frente 01,Subbase granular,m3,Excavadora,9,534.52,447.25,83.67,8.39,0.68,17104.79,15544.79,Sin incidencia,Conforme
+OV-00110,2026-02-02,Frente 01,Desbroce y limpieza,m2,Excavadora,5,1895.4,1388.92,73.28,7.96,0.9,5307.13,4189.11,Sin incidencia,Conforme
+OV-00111,2026-02-03,Frente 01,Pavimento asfáltico,t,Excavadora,6,299.41,234.15,78.21,10.14,0.69,55390.19,46525.56,Sin incidencia,Conforme
+OV-00112,2026-02-03,Frente 03,Excavación roca fija,m3,Excavadora,9,396.99,387.57,97.63,8.88,0.63,11115.8,11304.37,Sin incidencia,Conforme
+OV-00113,2026-02-04,Frente 02,Excavación material suelto,m3,Pavimentadora,9,952.07,866.42,91.0,8.83,0.11,9044.68,8794.48,Sin incidencia,Conforme
+OV-00114,2026-02-04,Frente 03,Desbroce y limpieza,m2,Rodillo,6,1757.4,1764.79,100.42,10.31,0.98,4920.72,5413.81,Sin incidencia,Conforme
+OV-00115,2026-02-04,Frente 03,Excavación roca fija,m3,Rodillo,7,421.56,477.91,113.37,8.38,1.01,11803.57,13713.15,Sin incidencia,Conforme
+OV-00116,2026-02-04,Frente 01,Cunetas de concreto,m,Cargador frontal,4,106.26,107.22,100.91,8.99,1.21,15407.27,16311.39,Sin incidencia,Conforme
+OV-00117,2026-02-05,Frente 03,Excavación roca fija,m3,Cargador frontal,9,439.43,362.58,82.51,8.23,0.65,12304.16,10816.87,Falla mecánica,Conforme
+OV-00118,2026-02-05,Frente 02,Excavación material suelto,m3,Rodillo,4,919.92,914.63,99.42,7.09,1.5,8739.26,9318.68,Abastecimiento de material,Conforme
+OV-00119,2026-02-05,Frente 01,Subbase granular,m3,Excavadora,4,544.38,477.9,87.79,10.91,0.48,17420.04,15599.9,Sin incidencia,Conforme
+OV-00120,2026-02-06,Frente 02,Pavimento asfáltico,t,Motoniveladora,6,315.98,304.04,96.22,11.14,0.27,58456.14,58184.88,Sin incidencia,Conforme
+OV-00121,2026-02-06,Frente 01,Excavación material suelto,m3,Excavadora,5,935.98,724.21,77.37,10.35,0.93,8891.77,6885.96,Sin incidencia,Conforme
+OV-00122,2026-02-06,Frente 01,Excavación roca fija,m3,Cargador frontal,6,434.47,389.87,89.73,9.91,0.5,12165.28,11243.98,Espera de topografía,Conforme
+OV-00123,2026-02-06,Frente 03,Base granular,m3,Rodillo,6,448.96,445.44,99.22,9.75,1.29,17060.4,18141.09,Sin incidencia,Conforme
+OV-00124,2026-02-07,Frente 03,Subbase granular,m3,Volquete,8,498.44,431.76,86.62,11.06,0.26,15950.2,14694.27,Sin incidencia,Conforme
+OV-00125,2026-02-07,Frente 02,Base granular,m3,Motoniveladora,4,440.82,387.26,87.85,8.72,1.58,16751.11,14847.7,Sin incidencia,Conforme
+OV-00126,2026-02-07,Frente 03,Excavación roca fija,m3,Motoniveladora,8,446.91,472.28,105.68,10.03,0.85,12513.6,14364.84,Clima,Conforme
+OV-00127,2026-02-07,Frente 01,Desbroce y limpieza,m2,Motoniveladora,8,1927.54,1895.87,98.36,9.94,0.51,5397.11,5710.41,Sin incidencia,Conforme
+OV-00128,2026-02-08,Frente 03,Desbroce y limpieza,m2,Motoniveladora,4,1728.6,1697.25,98.19,9.36,0.0,4840.09,4849.99,Sin incidencia,Conforme
+OV-00129,2026-02-08,Frente 03,Excavación material suelto,m3,Rodillo,5,939.99,819.46,87.18,8.34,0.86,8929.92,7998.04,Sin incidencia,Conforme
+OV-00130,2026-02-08,Frente 03,Subbase granular,m3,Cargador frontal,6,525.3,574.07,109.28,10.95,1.04,16809.67,18447.89,Espera de topografía,Conforme
+OV-00131,2026-02-09,Frente 02,Cunetas de concreto,m,Motoniveladora,9,118.41,95.43,80.6,10.43,0.65,17169.74,13874.79,Cambio de frente,Observado
+OV-00132,2026-02-09,Frente 01,Base granular,m3,Cargador frontal,4,438.44,516.81,117.87,10.36,0.58,16660.79,21399.58,Abastecimiento de material,Conforme
+OV-00133,2026-02-09,Frente 03,Pavimento asfáltico,t,Motoniveladora,9,296.2,252.59,85.28,9.04,0.47,54796.56,48098.47,Sin incidencia,Conforme
+OV-00134,2026-02-10,Frente 02,Base granular,m3,Excavadora,4,485.21,482.19,99.38,8.91,0.0,18437.87,19062.83,Sin incidencia,Conforme
+OV-00135,2026-02-10,Frente 02,Desbroce y limpieza,m2,Pavimentadora,4,1780.02,1776.4,99.8,8.72,0.8,4984.05,5167.65,Sin incidencia,Conforme
+OV-00136,2026-02-10,Frente 03,Cunetas de concreto,m,Excavadora,6,120.92,122.6,101.39,8.66,0.0,17533.57,19252.23,Clima,Conforme
+OV-00137,2026-02-10,Frente 02,Excavación material suelto,m3,Motoniveladora,5,989.41,494.71,50.0,9.99,1.09,9399.44,4831.44,Sin incidencia,Conforme
+OV-00138,2026-02-11,Frente 01,Cunetas de concreto,m,Excavadora,4,108.98,100.48,92.2,8.85,0.23,15801.9,15883.87,Sin incidencia,Conforme
+OV-00139,2026-02-11,Frente 02,Pavimento asfáltico,t,Pavimentadora,9,319.52,339.15,106.15,9.96,1.09,59110.4,65762.77,Clima,Conforme
+OV-00140,2026-02-11,Frente 01,Desbroce y limpieza,m2,Volquete,9,2013.51,1457.75,72.4,10.29,0.9,5637.82,4396.94,Espera de topografía,Conforme
+OV-00141,2026-02-11,Frente 01,Excavación material suelto,m3,Volquete,5,985.09,905.71,91.94,7.11,1.63,9358.31,8754.49,Sin incidencia,Conforme
+OV-00142,2026-02-12,Frente 03,Cunetas de concreto,m,Excavadora,9,122.56,106.21,86.66,9.11,0.74,17771.4,15538.94,Falla mecánica,Conforme
+OV-00143,2026-02-12,Frente 02,Pavimento asfáltico,t,Volquete,5,299.08,327.9,109.64,9.63,0.91,55330.36,63968.52,Falla mecánica,Conforme
+OV-00144,2026-02-13,Frente 01,Excavación material suelto,m3,Cargador frontal,6,962.15,852.61,88.62,8.19,0.0,9140.39,8118.07,Sin incidencia,Conforme
+OV-00145,2026-02-13,Frente 03,Pavimento asfáltico,t,Cargador frontal,7,342.37,349.49,102.08,9.33,0.0,63338.8,70101.43,Sin incidencia,Conforme
+OV-00146,2026-02-13,Frente 02,Desbroce y limpieza,m2,Volquete,5,1726.72,1773.08,102.69,7.04,0.64,4834.81,4974.22,Abastecimiento de material,Conforme
+OV-00147,2026-02-14,Frente 01,Desbroce y limpieza,m2,Cargador frontal,5,1958.9,2350.68,120.0,10.74,0.19,5484.92,7227.68,Sin incidencia,Conforme
+OV-00148,2026-02-14,Frente 01,Excavación material suelto,m3,Motoniveladora,9,937.48,976.65,104.18,11.4,0.19,8906.05,10177.04,Cambio de frente,Conforme
+OV-00149,2026-02-15,Frente 03,Pavimento asfáltico,t,Rodillo,6,291.31,297.1,101.99,10.43,0.45,53892.11,55146.03,Sin incidencia,Conforme
+OV-00150,2026-02-15,Frente 03,Excavación roca fija,m3,Excavadora,9,439.87,377.02,85.71,8.81,1.69,12316.32,10862.55,Sin incidencia,Conforme
+OV-00151,2026-02-15,Frente 01,Base granular,m3,Excavadora,9,489.23,394.57,80.65,10.39,0.8,18590.87,15189.56,Abastecimiento de material,Conforme
+OV-00152,2026-02-16,Frente 02,Excavación roca fija,m3,Rodillo,7,376.12,337.25,89.67,9.92,1.76,10531.41,9648.07,Sin incidencia,Conforme
+OV-00153,2026-02-16,Frente 01,Cunetas de concreto,m,Rodillo,5,104.9,80.04,76.31,9.93,0.18,15209.93,12120.95,Sin incidencia,Conforme
+OV-00154,2026-02-16,Frente 02,Pavimento asfáltico,t,Motoniveladora,7,319.34,238.54,74.7,7.78,1.08,59077.09,47985.18,Sin incidencia,Conforme
+OV-00155,2026-02-16,Frente 01,Subbase granular,m3,Rodillo,5,527.28,632.74,120.0,10.34,0.31,16872.97,22207.53,Sin incidencia,Observado
+OV-00156,2026-02-17,Frente 02,Excavación roca fija,m3,Motoniveladora,5,395.77,272.66,68.89,10.99,0.19,11081.47,8220.3,Sin incidencia,Conforme
+OV-00157,2026-02-17,Frente 01,Desbroce y limpieza,m2,Pavimentadora,7,1883.55,1913.54,101.59,8.37,0.82,5273.95,5567.96,Sin incidencia,Conforme
+OV-00158,2026-02-17,Frente 03,Cunetas de concreto,m,Excavadora,4,109.05,88.69,81.32,9.0,0.0,15812.82,13049.18,Sin incidencia,Conforme
+OV-00159,2026-02-17,Frente 03,Subbase granular,m3,Rodillo,5,464.51,434.57,93.55,9.7,0.0,14864.44,14295.27,Sin incidencia,Conforme
+OV-00160,2026-02-18,Frente 02,Cunetas de concreto,m,Pavimentadora,4,119.6,87.23,72.94,9.51,0.79,17341.98,12692.92,Sin incidencia,Conforme
+OV-00161,2026-02-18,Frente 02,Subbase granular,m3,Cargador frontal,8,506.92,253.46,50.0,8.39,1.4,16221.52,8611.74,Falla mecánica,Conforme
+OV-00162,2026-02-18,Frente 01,Excavación material suelto,m3,Motoniveladora,6,970.16,1071.47,110.44,10.78,0.49,9216.51,10267.29,Sin incidencia,Conforme
+OV-00163,2026-02-19,Frente 02,Base granular,m3,Rodillo,5,491.52,420.9,85.63,9.21,0.31,18677.77,16776.92,Sin incidencia,Conforme
+OV-00164,2026-02-19,Frente 02,Subbase granular,m3,Excavadora,6,522.33,463.36,88.71,8.58,0.73,16714.51,15662.03,Falla mecánica,Conforme
+OV-00165,2026-02-20,Frente 02,Subbase granular,m3,Pavimentadora,6,516.67,509.12,98.54,7.2,0.92,16533.5,17369.66,Sin incidencia,Conforme
+OV-00166,2026-02-20,Frente 02,Base granular,m3,Pavimentadora,5,477.8,293.55,61.44,8.98,0.74,18156.48,11505.74,Cambio de frente,Conforme
+OV-00167,2026-02-20,Frente 02,Excavación material suelto,m3,Excavadora,7,960.52,1004.54,104.58,7.63,0.37,9124.91,9771.05,Cambio de frente,Conforme
+OV-00168,2026-02-20,Frente 03,Pavimento asfáltico,t,Excavadora,4,295.43,230.47,78.01,9.18,0.92,54654.46,43838.39,Sin incidencia,Conforme
+OV-00169,2026-02-21,Frente 02,Base granular,m3,Excavadora,4,430.37,426.54,99.11,8.98,1.22,16354.22,17248.01,Abastecimiento de material,Conforme
+OV-00170,2026-02-21,Frente 03,Desbroce y limpieza,m2,Volquete,6,1807.18,2145.4,118.72,8.75,0.28,5060.11,6252.26,Sin incidencia,Conforme
+OV-00171,2026-02-21,Frente 02,Subbase granular,m3,Motoniveladora,5,552.5,636.49,115.2,10.01,0.84,17679.95,22324.71,Sin incidencia,Conforme
+OV-00172,2026-02-22,Frente 02,Pavimento asfáltico,t,Volquete,6,310.97,268.87,86.46,10.31,0.67,57528.76,50569.36,Sin incidencia,Conforme
+OV-00173,2026-02-22,Frente 03,Base granular,m3,Motoniveladora,5,437.26,481.75,110.18,8.58,1.87,16615.77,18957.2,Sin incidencia,Conforme
+OV-00174,2026-02-22,Frente 01,Desbroce y limpieza,m2,Excavadora,7,1720.94,1372.39,79.75,6.6,0.76,4818.64,4092.18,Clima,Conforme
+OV-00175,2026-02-22,Frente 03,Cunetas de concreto,m,Volquete,7,101.2,112.45,111.12,9.55,0.29,14674.0,17265.84,Abastecimiento de material,Conforme
+OV-00176,2026-02-23,Frente 02,Base granular,m3,Cargador frontal,9,442.76,343.75,77.64,8.62,0.45,16824.79,13462.27,Sin incidencia,Conforme
+OV-00177,2026-02-23,Frente 01,Excavación roca fija,m3,Pavimentadora,9,463.08,381.74,82.43,9.4,0.79,12966.16,10890.27,Sin incidencia,Conforme
+OV-00178,2026-02-24,Frente 01,Cunetas de concreto,m,Motoniveladora,4,124.32,144.89,116.55,9.8,0.41,18026.81,23057.21,Sin incidencia,Conforme
+OV-00179,2026-02-24,Frente 01,Desbroce y limpieza,m2,Rodillo,5,1744.4,1426.64,81.78,10.17,1.22,4884.31,4115.8,Sin incidencia,Conforme
+OV-00180,2026-02-25,Frente 03,Excavación material suelto,m3,Pavimentadora,7,1064.0,1006.64,94.61,7.4,0.96,10108.0,10175.52,Sin incidencia,Conforme
+OV-00181,2026-02-25,Frente 01,Excavación roca fija,m3,Rodillo,6,423.8,386.52,91.2,9.36,0.64,11866.45,11677.99,Clima,Conforme
+OV-00182,2026-02-25,Frente 01,Subbase granular,m3,Excavadora,8,528.31,544.44,103.05,8.4,1.3,16905.99,19109.18,Cambio de frente,Conforme
+OV-00183,2026-02-25,Frente 02,Pavimento asfáltico,t,Rodillo,9,316.21,220.38,69.7,9.37,0.19,58498.77,43401.02,Clima,Conforme
+OV-00184,2026-02-26,Frente 02,Subbase granular,m3,Volquete,9,511.65,436.69,85.35,9.32,0.68,16372.69,14223.86,Sin incidencia,Conforme
+OV-00185,2026-02-26,Frente 01,Pavimento asfáltico,t,Pavimentadora,8,304.38,303.27,99.64,11.17,1.31,56310.42,61283.81,Sin incidencia,Conforme
+OV-00186,2026-02-26,Frente 03,Excavación roca fija,m3,Cargador frontal,5,419.77,450.18,107.24,8.52,0.56,11753.67,12783.92,Cambio de frente,Conforme
+OV-00187,2026-02-27,Frente 03,Pavimento asfáltico,t,Volquete,9,333.05,279.15,83.82,9.95,0.0,61614.96,56776.56,Sin incidencia,Conforme
+OV-00188,2026-02-27,Frente 03,Base granular,m3,Pavimentadora,9,447.18,445.75,99.68,9.56,0.5,16992.91,18046.55,Sin incidencia,Conforme
+OV-00189,2026-02-28,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,337.11,286.08,84.86,8.16,1.16,62366.21,57700.18,Sin incidencia,Conforme
+OV-00190,2026-02-28,Frente 01,Desbroce y limpieza,m2,Cargador frontal,4,1867.16,1905.76,102.07,8.07,0.73,5228.04,5746.06,Sin incidencia,Conforme
+OV-00191,2026-02-28,Frente 01,Excavación material suelto,m3,Volquete,5,836.0,511.3,61.16,8.06,0.47,7942.0,5012.12,Sin incidencia,Conforme
+OV-00192,2026-03-01,Frente 02,Excavación roca fija,m3,Excavadora,4,377.18,350.61,92.95,11.11,1.49,10561.09,10193.09,Espera de topografía,Conforme
+OV-00193,2026-03-01,Frente 03,Cunetas de concreto,m,Motoniveladora,7,111.55,77.91,69.84,10.85,0.84,16174.93,11697.28,Sin incidencia,Conforme
+OV-00194,2026-03-02,Frente 03,Base granular,m3,Excavadora,9,429.98,476.36,110.79,8.88,0.18,16339.38,19014.01,Sin incidencia,Conforme
+OV-00195,2026-03-02,Frente 02,Pavimento asfáltico,t,Rodillo,9,318.5,315.62,99.1,8.09,0.05,58922.18,60417.98,Espera de topografía,Conforme
+OV-00196,2026-03-03,Frente 01,Base granular,m3,Cargador frontal,8,484.65,539.31,111.28,10.1,0.14,18416.82,20963.84,Sin incidencia,Conforme
+OV-00197,2026-03-03,Frente 02,Pavimento asfáltico,t,Cargador frontal,8,319.04,220.05,68.97,6.63,0.59,59022.12,44177.46,Sin incidencia,Conforme
+OV-00198,2026-03-03,Frente 01,Excavación material suelto,m3,Motoniveladora,7,1044.89,1003.41,96.03,5.99,1.75,9926.45,9735.4,Sin incidencia,Conforme
+OV-00199,2026-03-04,Frente 03,Excavación material suelto,m3,Cargador frontal,4,923.55,884.75,95.8,7.83,1.4,8773.74,8676.4,Cambio de frente,Conforme
+OV-00200,2026-03-04,Frente 02,Subbase granular,m3,Motoniveladora,6,519.54,573.96,110.48,7.71,1.14,16625.22,20106.47,Sin incidencia,Conforme
+OV-00201,2026-03-04,Frente 03,Desbroce y limpieza,m2,Excavadora,9,1730.91,1895.73,109.52,8.73,0.45,4846.54,5673.68,Espera de topografía,Conforme
+OV-00202,2026-03-05,Frente 01,Pavimento asfáltico,t,Excavadora,6,278.95,296.68,106.36,11.38,0.59,51605.83,58179.93,Sin incidencia,Conforme
+OV-00203,2026-03-05,Frente 01,Excavación material suelto,m3,Excavadora,4,926.09,807.09,87.15,10.81,1.1,8797.88,8053.26,Clima,Conforme
+OV-00204,2026-03-06,Frente 01,Excavación material suelto,m3,Motoniveladora,5,902.38,710.52,78.74,10.38,0.01,8572.65,7166.14,Sin incidencia,Conforme
+OV-00205,2026-03-06,Frente 02,Base granular,m3,Motoniveladora,8,472.81,567.37,120.0,8.36,1.0,17966.87,23097.62,Sin incidencia,Conforme
+OV-00206,2026-03-06,Frente 03,Subbase granular,m3,Excavadora,5,504.53,412.52,81.76,8.69,0.16,16144.9,13569.76,Sin incidencia,Conforme
+OV-00207,2026-03-07,Frente 01,Desbroce y limpieza,m2,Volquete,4,1831.15,1431.25,78.16,8.06,1.39,5127.23,4157.13,Abastecimiento de material,Conforme
+OV-00208,2026-03-07,Frente 03,Pavimento asfáltico,t,Motoniveladora,8,340.99,279.67,82.02,9.19,0.87,63082.87,55966.88,Sin incidencia,Conforme
+OV-00209,2026-03-07,Frente 03,Excavación material suelto,m3,Rodillo,7,893.97,847.32,94.78,8.96,0.92,8492.73,8331.07,Clima,Conforme
+OV-00210,2026-03-08,Frente 02,Subbase granular,m3,Motoniveladora,8,537.82,529.7,98.49,8.81,1.15,17210.35,17424.15,Espera de topografía,Conforme
+OV-00211,2026-03-08,Frente 01,Excavación roca fija,m3,Motoniveladora,5,413.06,446.25,108.04,10.09,0.99,11565.66,12496.98,Sin incidencia,Conforme
+OV-00212,2026-03-08,Frente 02,Desbroce y limpieza,m2,Pavimentadora,5,1870.19,1511.28,80.81,8.24,0.57,5236.54,4312.39,Sin incidencia,Conforme
+OV-00213,2026-03-09,Frente 01,Excavación roca fija,m3,Excavadora,8,402.27,371.68,92.4,10.06,0.0,11263.45,10973.99,Abastecimiento de material,Conforme
+OV-00214,2026-03-09,Frente 03,Excavación material suelto,m3,Excavadora,8,943.62,964.53,102.22,10.9,0.12,8964.35,9990.07,Sin incidencia,Conforme
+OV-00215,2026-03-09,Frente 02,Cunetas de concreto,m,Cargador frontal,7,101.59,104.33,102.7,9.85,0.0,14729.97,15538.73,Sin incidencia,Conforme
+OV-00216,2026-03-10,Frente 02,Subbase granular,m3,Rodillo,7,533.97,460.94,86.32,10.18,0.12,17087.1,15975.69,Sin incidencia,Conforme
+OV-00217,2026-03-10,Frente 03,Excavación roca fija,m3,Motoniveladora,8,403.33,354.58,87.91,8.6,0.26,11293.2,10556.33,Falla mecánica,Conforme
+OV-00218,2026-03-11,Frente 03,Pavimento asfáltico,t,Volquete,7,306.26,262.57,85.73,9.5,0.92,56658.26,49406.33,Sin incidencia,Conforme
+OV-00219,2026-03-11,Frente 01,Cunetas de concreto,m,Excavadora,4,112.27,119.57,106.51,10.18,1.14,16278.78,17712.1,Sin incidencia,Conforme
+OV-00220,2026-03-11,Frente 03,Subbase granular,m3,Motoniveladora,5,551.74,473.56,85.83,9.46,0.39,17655.54,15423.5,Espera de topografía,Conforme
+OV-00221,2026-03-11,Frente 02,Base granular,m3,Volquete,9,460.12,373.26,81.12,9.51,0.0,17484.57,14251.19,Sin incidencia,Conforme
+OV-00222,2026-03-12,Frente 01,Subbase granular,m3,Motoniveladora,6,523.51,414.32,79.14,8.25,0.49,16752.39,13463.17,Sin incidencia,Conforme
+OV-00223,2026-03-12,Frente 03,Pavimento asfáltico,t,Pavimentadora,4,316.33,251.91,79.63,10.88,1.39,58521.73,51236.53,Espera de topografía,Conforme
+OV-00224,2026-03-13,Frente 01,Excavación material suelto,m3,Motoniveladora,6,884.93,721.64,81.55,8.98,0.85,8406.79,7166.32,Sin incidencia,Conforme
+OV-00225,2026-03-13,Frente 02,Base granular,m3,Motoniveladora,7,442.23,334.22,75.58,9.87,0.01,16804.79,13785.06,Abastecimiento de material,Conforme
+OV-00226,2026-03-13,Frente 02,Cunetas de concreto,m,Cargador frontal,5,120.36,108.65,90.27,5.8,0.58,17451.72,17152.31,Abastecimiento de material,Conforme
+OV-00227,2026-03-13,Frente 01,Excavación roca fija,m3,Motoniveladora,4,384.6,273.79,71.19,9.6,0.36,10768.83,7702.95,Sin incidencia,Conforme
+OV-00228,2026-03-14,Frente 03,Desbroce y limpieza,m2,Motoniveladora,7,1864.85,1825.35,97.88,6.96,0.43,5221.59,5137.53,Sin incidencia,Conforme
+OV-00229,2026-03-14,Frente 02,Excavación roca fija,m3,Motoniveladora,5,433.25,366.35,84.56,10.69,1.12,12130.95,11023.62,Sin incidencia,Conforme
+OV-00230,2026-03-14,Frente 01,Pavimento asfáltico,t,Rodillo,7,295.56,199.49,67.5,9.12,1.14,54679.48,37231.05,Abastecimiento de material,Conforme
+OV-00231,2026-03-15,Frente 03,Desbroce y limpieza,m2,Volquete,9,1789.24,1642.36,91.79,8.06,0.5,5009.86,4725.02,Sin incidencia,Conforme
+OV-00232,2026-03-15,Frente 01,Pavimento asfáltico,t,Cargador frontal,6,314.93,280.5,89.07,8.65,1.44,58261.67,53762.97,Abastecimiento de material,Conforme
+OV-00233,2026-03-15,Frente 01,Excavación roca fija,m3,Excavadora,6,415.03,378.61,91.23,8.27,0.86,11620.82,11382.02,Espera de topografía,Conforme
+OV-00234,2026-03-16,Frente 03,Pavimento asfáltico,t,Cargador frontal,5,320.03,302.26,94.45,9.02,0.68,59205.82,58772.77,Falla mecánica,Conforme
+OV-00235,2026-03-16,Frente 01,Subbase granular,m3,Pavimentadora,8,551.32,540.62,98.06,10.07,0.87,17642.32,18640.49,Espera de topografía,Conforme
+OV-00236,2026-03-17,Frente 03,Pavimento asfáltico,t,Pavimentadora,9,305.3,208.48,68.29,9.57,0.06,56480.79,41056.64,Falla mecánica,Conforme
+OV-00237,2026-03-17,Frente 02,Base granular,m3,Cargador frontal,5,468.66,418.79,89.36,11.52,0.75,17809.21,17464.0,Sin incidencia,Conforme
+OV-00238,2026-03-17,Frente 01,Cunetas de concreto,m,Cargador frontal,8,105.85,96.96,91.6,10.08,1.49,15348.46,14580.71,Sin incidencia,Conforme
+OV-00239,2026-03-17,Frente 02,Excavación roca fija,m3,Motoniveladora,5,426.09,340.22,79.85,9.4,0.0,11930.4,9652.61,Sin incidencia,Conforme
+OV-00240,2026-03-18,Frente 03,Subbase granular,m3,Volquete,5,498.97,447.1,89.6,10.09,0.78,15967.07,14558.87,Sin incidencia,Conforme
+OV-00241,2026-03-18,Frente 02,Base granular,m3,Excavadora,6,457.83,424.95,92.82,7.4,0.29,17397.7,17463.08,Abastecimiento de material,Conforme
+OV-00242,2026-03-18,Frente 03,Cunetas de concreto,m,Pavimentadora,5,115.27,108.68,94.28,6.99,0.12,16714.79,16474.25,Sin incidencia,Conforme
+OV-00243,2026-03-19,Frente 02,Excavación roca fija,m3,Volquete,6,418.85,371.03,88.58,7.9,0.24,11727.88,11365.71,Sin incidencia,Conforme
+OV-00244,2026-03-19,Frente 01,Cunetas de concreto,m,Volquete,5,117.55,108.82,92.57,9.46,0.24,17045.16,16829.93,Sin incidencia,Conforme
+OV-00245,2026-03-19,Frente 01,Subbase granular,m3,Volquete,7,508.29,449.38,88.41,8.6,0.81,16265.31,14454.97,Sin incidencia,Conforme
+OV-00246,2026-03-19,Frente 01,Excavación material suelto,m3,Cargador frontal,9,941.01,921.44,97.92,8.25,0.03,8939.56,9341.44,Sin incidencia,Observado
+OV-00247,2026-03-20,Frente 02,Excavación roca fija,m3,Rodillo,8,434.96,470.93,108.27,7.68,0.47,12178.87,13681.09,Sin incidencia,Conforme
+OV-00248,2026-03-20,Frente 01,Base granular,m3,Rodillo,6,488.73,365.76,74.84,9.12,1.17,18571.84,14617.18,Clima,Conforme
+OV-00249,2026-03-21,Frente 01,Excavación material suelto,m3,Rodillo,7,1005.38,902.09,89.73,10.69,1.41,9551.11,9260.69,Falla mecánica,Conforme
+OV-00250,2026-03-21,Frente 02,Desbroce y limpieza,m2,Volquete,6,1782.16,1264.81,70.97,8.51,1.77,4990.05,3693.89,Cambio de frente,Conforme
+OV-00251,2026-03-21,Frente 03,Base granular,m3,Pavimentadora,8,444.52,533.43,120.0,9.06,1.16,16891.94,20720.7,Sin incidencia,Conforme
+OV-00252,2026-03-22,Frente 01,Desbroce y limpieza,m2,Pavimentadora,9,1614.33,1286.75,79.71,9.68,0.17,4520.11,3707.05,Clima,Conforme
+OV-00253,2026-03-22,Frente 03,Subbase granular,m3,Volquete,8,505.41,478.73,94.72,10.98,0.0,16173.27,16097.74,Sin incidencia,Conforme
+OV-00254,2026-03-22,Frente 03,Cunetas de concreto,m,Volquete,7,118.44,120.21,101.49,8.65,0.0,17174.12,17793.87,Sin incidencia,Conforme
+OV-00255,2026-03-23,Frente 01,Cunetas de concreto,m,Cargador frontal,9,117.23,118.52,101.1,8.09,0.63,16998.65,18281.44,Sin incidencia,Conforme
+OV-00256,2026-03-23,Frente 01,Subbase granular,m3,Cargador frontal,7,557.36,561.32,100.71,9.45,0.56,17835.49,18159.9,Sin incidencia,Conforme
+OV-00257,2026-03-23,Frente 02,Excavación material suelto,m3,Motoniveladora,8,919.85,1073.49,116.7,11.01,1.51,8738.56,10330.45,Cambio de frente,Conforme
+OV-00258,2026-03-24,Frente 01,Excavación roca fija,m3,Excavadora,5,408.31,292.81,71.71,9.7,0.0,11432.67,8995.21,Sin incidencia,Conforme
+OV-00259,2026-03-24,Frente 02,Cunetas de concreto,m,Cargador frontal,8,118.75,93.87,79.05,9.21,0.43,17218.89,14959.27,Sin incidencia,Conforme
+OV-00260,2026-03-24,Frente 03,Excavación material suelto,m3,Cargador frontal,5,953.44,746.57,78.3,9.74,1.4,9057.65,7600.86,Falla mecánica,Conforme
+OV-00261,2026-03-25,Frente 01,Base granular,m3,Rodillo,6,436.44,447.22,102.47,10.21,0.3,16584.59,18625.42,Cambio de frente,Conforme
+OV-00262,2026-03-25,Frente 03,Excavación roca fija,m3,Pavimentadora,6,432.99,373.22,86.2,8.6,0.73,12123.6,11431.71,Cambio de frente,Observado
+OV-00263,2026-03-25,Frente 02,Subbase granular,m3,Motoniveladora,4,481.18,364.57,75.77,9.74,0.77,15397.84,12419.32,Falla mecánica,Conforme
+OV-00264,2026-03-26,Frente 02,Desbroce y limpieza,m2,Pavimentadora,6,1748.9,1674.9,95.77,7.29,1.07,4896.92,5105.06,Sin incidencia,Conforme
+OV-00265,2026-03-26,Frente 01,Base granular,m3,Volquete,7,427.45,421.88,98.7,7.37,0.76,16243.23,17254.25,Sin incidencia,Conforme
+OV-00266,2026-03-27,Frente 01,Cunetas de concreto,m,Rodillo,8,118.56,123.57,104.22,9.13,0.0,17191.4,18726.18,Clima,Conforme
+OV-00267,2026-03-27,Frente 03,Excavación roca fija,m3,Rodillo,7,428.96,274.86,64.07,10.29,0.41,12010.93,7903.0,Abastecimiento de material,Conforme
+OV-00268,2026-03-27,Frente 02,Desbroce y limpieza,m2,Excavadora,8,1752.18,1839.5,104.98,8.26,0.0,4906.11,5397.1,Sin incidencia,Conforme
+OV-00269,2026-03-27,Frente 03,Excavación material suelto,m3,Volquete,9,849.48,656.94,77.33,7.34,0.71,8070.08,6781.53,Sin incidencia,Conforme
+OV-00270,2026-03-28,Frente 03,Pavimento asfáltico,t,Volquete,7,297.2,305.47,102.78,11.72,0.8,54982.92,60591.49,Sin incidencia,Conforme
+OV-00271,2026-03-28,Frente 01,Excavación material suelto,m3,Motoniveladora,5,967.78,757.73,78.3,9.0,0.66,9193.91,7905.64,Sin incidencia,Conforme
+OV-00272,2026-03-28,Frente 01,Subbase granular,m3,Motoniveladora,8,514.91,413.78,80.36,6.6,0.19,16477.04,14176.94,Sin incidencia,Conforme
+OV-00273,2026-03-29,Frente 02,Subbase granular,m3,Volquete,6,526.36,563.47,107.05,11.14,0.87,16843.65,19639.51,Sin incidencia,Conforme
+OV-00274,2026-03-29,Frente 01,Excavación roca fija,m3,Volquete,8,389.6,415.91,106.75,7.33,0.89,10908.84,11753.64,Sin incidencia,Conforme
+OV-00275,2026-03-29,Frente 01,Cunetas de concreto,m,Motoniveladora,6,122.79,114.64,93.36,9.78,0.66,17804.35,17331.08,Espera de topografía,Conforme
+OV-00276,2026-03-29,Frente 01,Pavimento asfáltico,t,Pavimentadora,6,306.57,285.15,93.01,9.31,0.87,56715.82,55906.17,Cambio de frente,Conforme
+OV-00277,2026-03-30,Frente 01,Excavación roca fija,m3,Excavadora,7,425.54,459.4,107.96,7.91,0.44,11915.23,13843.73,Sin incidencia,Conforme
+OV-00278,2026-03-30,Frente 03,Subbase granular,m3,Volquete,9,504.22,351.4,69.69,9.96,0.21,16135.02,12311.41,Cambio de frente,Conforme
+OV-00279,2026-03-30,Frente 02,Desbroce y limpieza,m2,Motoniveladora,6,1742.66,1739.94,99.84,8.04,1.3,4879.44,5163.17,Sin incidencia,Conforme
+OV-00280,2026-03-30,Frente 01,Base granular,m3,Rodillo,7,465.32,481.72,103.52,8.42,0.33,17682.17,19379.63,Clima,Conforme
+OV-00281,2026-03-31,Frente 03,Pavimento asfáltico,t,Cargador frontal,5,313.25,281.26,89.79,10.27,0.34,57951.16,54386.46,Sin incidencia,Conforme
+OV-00282,2026-03-31,Frente 03,Excavación material suelto,m3,Rodillo,9,933.62,821.46,87.99,7.16,0.47,8869.43,8320.61,Clima,Conforme
+OV-00283,2026-03-31,Frente 01,Cunetas de concreto,m,Rodillo,4,104.32,91.32,87.54,9.43,2.09,15126.27,14564.7,Cambio de frente,Conforme
+OV-00284,2026-04-01,Frente 03,Subbase granular,m3,Rodillo,4,533.23,373.17,69.98,10.27,0.65,17063.24,13011.27,Sin incidencia,Conforme
+OV-00285,2026-04-01,Frente 02,Base granular,m3,Volquete,4,440.95,313.87,71.18,8.09,0.67,16756.21,12843.09,Cambio de frente,Conforme
+OV-00286,2026-04-02,Frente 03,Pavimento asfáltico,t,Motoniveladora,7,347.2,304.04,87.57,8.3,0.25,64232.0,61045.81,Sin incidencia,Conforme
+OV-00287,2026-04-02,Frente 03,Excavación material suelto,m3,Pavimentadora,7,895.13,818.55,91.45,10.12,0.56,8503.7,8194.45,Cambio de frente,Conforme
+OV-00288,2026-04-02,Frente 02,Subbase granular,m3,Pavimentadora,7,537.79,612.02,113.8,7.27,0.15,17209.33,20011.97,Sin incidencia,Conforme
+OV-00289,2026-04-02,Frente 01,Desbroce y limpieza,m2,Motoniveladora,7,1909.97,1825.13,95.56,9.12,1.02,5347.9,5617.33,Sin incidencia,Conforme
+OV-00290,2026-04-03,Frente 02,Pavimento asfáltico,t,Pavimentadora,9,282.6,320.81,113.52,7.6,0.0,52280.88,65081.41,Sin incidencia,Conforme
+OV-00291,2026-04-03,Frente 02,Desbroce y limpieza,m2,Volquete,5,1815.79,1872.56,103.13,9.86,0.85,5084.22,5469.63,Abastecimiento de material,Conforme
+OV-00292,2026-04-04,Frente 01,Subbase granular,m3,Pavimentadora,7,518.42,411.34,79.34,8.78,0.86,16589.42,13338.94,Espera de topografía,Conforme
+OV-00293,2026-04-04,Frente 01,Base granular,m3,Pavimentadora,8,454.32,346.72,76.32,9.07,0.67,17264.11,13410.1,Sin incidencia,Conforme
+OV-00294,2026-04-04,Frente 01,Excavación material suelto,m3,Cargador frontal,6,995.98,693.37,69.62,9.43,1.08,9461.79,6771.25,Sin incidencia,Conforme
+OV-00295,2026-04-04,Frente 02,Desbroce y limpieza,m2,Motoniveladora,4,1774.91,1873.32,105.54,8.64,0.84,4969.74,5496.33,Sin incidencia,Conforme
+OV-00296,2026-04-05,Frente 03,Desbroce y limpieza,m2,Excavadora,4,1764.82,1893.3,107.28,9.48,0.59,4941.49,5781.4,Falla mecánica,Conforme
+OV-00297,2026-04-05,Frente 01,Excavación material suelto,m3,Motoniveladora,7,916.0,943.49,103.0,6.81,1.34,8702.01,9386.85,Sin incidencia,Conforme
+OV-00298,2026-04-05,Frente 03,Pavimento asfáltico,t,Motoniveladora,5,313.75,231.56,73.8,9.64,0.86,58043.9,45293.15,Sin incidencia,Conforme
+OV-00299,2026-04-06,Frente 03,Base granular,m3,Pavimentadora,8,445.03,440.96,99.09,10.19,0.67,16911.0,17683.37,Sin incidencia,Conforme
+OV-00300,2026-04-06,Frente 03,Pavimento asfáltico,t,Volquete,5,301.06,258.67,85.92,9.57,0.0,55695.76,50161.71,Sin incidencia,Conforme
+OV-00301,2026-04-06,Frente 02,Subbase granular,m3,Excavadora,7,479.33,384.6,80.24,10.6,1.31,15338.54,13398.06,Sin incidencia,Conforme
+OV-00302,2026-04-07,Frente 01,Cunetas de concreto,m,Cargador frontal,4,119.29,79.86,66.94,9.32,1.25,17297.67,12703.04,Sin incidencia,Conforme
+OV-00303,2026-04-07,Frente 03,Desbroce y limpieza,m2,Rodillo,6,1903.56,1797.79,94.44,8.24,0.98,5329.97,5363.29,Abastecimiento de material,Conforme
+OV-00304,2026-04-07,Frente 03,Excavación material suelto,m3,Volquete,5,881.93,618.54,70.13,11.72,1.04,8378.37,5925.85,Sin incidencia,Conforme
+OV-00305,2026-04-07,Frente 01,Subbase granular,m3,Volquete,6,561.02,388.62,69.27,10.48,0.98,17952.77,13496.72,Sin incidencia,Conforme
+OV-00306,2026-04-08,Frente 03,Excavación material suelto,m3,Volquete,5,905.8,821.37,90.68,7.26,1.87,8605.1,8152.4,Espera de topografía,Conforme
+OV-00307,2026-04-08,Frente 03,Pavimento asfáltico,t,Excavadora,5,307.21,268.16,87.29,9.6,0.0,56833.53,52435.53,Sin incidencia,Conforme
+OV-00308,2026-04-09,Frente 03,Desbroce y limpieza,m2,Motoniveladora,6,1721.79,1802.89,104.71,9.29,0.0,4821.01,5529.92,Espera de topografía,Conforme
+OV-00309,2026-04-09,Frente 03,Excavación material suelto,m3,Volquete,5,912.92,1079.13,118.21,9.82,0.53,8672.71,10693.31,Sin incidencia,Conforme
+OV-00310,2026-04-09,Frente 03,Subbase granular,m3,Pavimentadora,5,486.55,418.44,86.0,9.1,1.43,15569.64,14256.87,Abastecimiento de material,Conforme
+OV-00311,2026-04-09,Frente 03,Excavación roca fija,m3,Volquete,8,407.99,416.8,102.16,7.18,1.58,11423.78,12612.54,Sin incidencia,Conforme
+OV-00312,2026-04-10,Frente 03,Desbroce y limpieza,m2,Excavadora,9,1848.01,1050.34,56.84,9.2,0.7,5174.42,3137.07,Sin incidencia,Conforme
+OV-00313,2026-04-10,Frente 02,Cunetas de concreto,m,Rodillo,7,113.09,134.65,119.06,9.85,0.04,16398.06,20807.64,Sin incidencia,Conforme
+OV-00314,2026-04-10,Frente 01,Excavación material suelto,m3,Rodillo,9,955.24,933.9,97.77,7.4,1.21,9074.74,9226.3,Clima,Conforme
+OV-00315,2026-04-11,Frente 03,Excavación roca fija,m3,Volquete,4,406.74,435.27,107.01,8.3,1.06,11388.71,12844.31,Sin incidencia,Conforme
+OV-00316,2026-04-11,Frente 01,Cunetas de concreto,m,Excavadora,8,114.59,110.04,96.03,9.96,0.0,16615.33,16716.26,Sin incidencia,Conforme
+OV-00317,2026-04-12,Frente 03,Subbase granular,m3,Excavadora,5,552.3,432.8,78.36,9.93,0.45,17673.56,15116.43,Sin incidencia,Conforme
+OV-00318,2026-04-12,Frente 01,Excavación roca fija,m3,Volquete,5,424.5,377.94,89.03,7.15,0.86,11886.07,11103.27,Falla mecánica,Conforme
+OV-00319,2026-04-12,Frente 01,Cunetas de concreto,m,Excavadora,4,112.98,135.57,120.0,10.47,0.88,16381.49,19847.0,Sin incidencia,Conforme
+OV-00320,2026-04-12,Frente 03,Excavación material suelto,m3,Cargador frontal,6,931.1,733.36,78.76,8.19,0.57,8845.47,7373.62,Sin incidencia,Observado
+OV-00321,2026-04-13,Frente 03,Cunetas de concreto,m,Excavadora,9,114.06,129.87,113.86,9.97,0.82,16539.05,20578.9,Sin incidencia,Conforme
+OV-00322,2026-04-13,Frente 03,Desbroce y limpieza,m2,Rodillo,5,1673.1,1679.51,100.38,7.78,0.78,4684.69,5077.37,Sin incidencia,Conforme
+OV-00323,2026-04-13,Frente 01,Pavimento asfáltico,t,Volquete,4,315.86,214.46,67.9,9.38,0.73,58434.46,40028.67,Abastecimiento de material,Conforme
+OV-00324,2026-04-14,Frente 02,Desbroce y limpieza,m2,Motoniveladora,4,1801.18,1993.46,110.68,9.48,0.0,5043.29,6022.53,Sin incidencia,Conforme
+OV-00325,2026-04-14,Frente 03,Pavimento asfáltico,t,Volquete,6,306.87,319.67,104.17,9.9,0.27,56770.86,63701.39,Sin incidencia,Conforme
+OV-00326,2026-04-14,Frente 01,Excavación roca fija,m3,Pavimentadora,5,396.66,412.94,104.1,10.77,0.24,11106.5,12700.06,Sin incidencia,Conforme
+OV-00327,2026-04-14,Frente 02,Excavación material suelto,m3,Pavimentadora,9,909.88,722.08,79.36,10.34,0.43,8643.85,7318.59,Cambio de frente,Conforme
+OV-00328,2026-04-15,Frente 02,Excavación material suelto,m3,Volquete,6,897.31,914.74,101.94,7.4,0.04,8524.48,9552.06,Clima,Conforme
+OV-00329,2026-04-15,Frente 02,Cunetas de concreto,m,Cargador frontal,4,115.87,77.14,66.57,9.49,0.05,16801.82,11869.0,Cambio de frente,Conforme
+OV-00330,2026-04-15,Frente 01,Desbroce y limpieza,m2,Motoniveladora,8,1711.91,1769.65,103.37,9.39,0.0,4793.34,5210.8,Espera de topografía,Conforme
+OV-00331,2026-04-15,Frente 01,Subbase granular,m3,Excavadora,7,545.2,393.0,72.08,9.89,0.53,17446.4,13096.6,Sin incidencia,Conforme
+OV-00332,2026-04-16,Frente 01,Base granular,m3,Volquete,7,474.92,338.29,71.23,9.15,0.74,18046.84,13967.83,Falla mecánica,Conforme
+OV-00333,2026-04-16,Frente 01,Desbroce y limpieza,m2,Volquete,9,1686.77,1248.64,74.03,10.55,0.9,4722.96,3807.72,Falla mecánica,Conforme
+OV-00334,2026-04-16,Frente 01,Subbase granular,m3,Pavimentadora,5,497.74,360.58,72.44,8.59,0.59,15927.74,12385.91,Sin incidencia,Conforme
+OV-00335,2026-04-16,Frente 03,Cunetas de concreto,m,Motoniveladora,7,118.99,80.88,67.97,8.75,0.61,17253.8,12331.04,Sin incidencia,Conforme
+OV-00336,2026-04-17,Frente 03,Excavación roca fija,m3,Cargador frontal,4,407.92,412.56,101.14,12.0,1.02,11421.81,11999.89,Abastecimiento de material,Observado
+OV-00337,2026-04-17,Frente 01,Base granular,m3,Pavimentadora,5,450.37,443.55,98.49,9.41,1.03,17114.04,17074.27,Sin incidencia,Conforme
+OV-00338,2026-04-18,Frente 03,Pavimento asfáltico,t,Cargador frontal,6,335.24,328.93,98.12,10.22,0.79,62018.92,61778.13,Abastecimiento de material,Observado
+OV-00339,2026-04-18,Frente 03,Base granular,m3,Motoniveladora,7,438.79,467.22,106.48,7.99,0.93,16674.2,18740.57,Sin incidencia,Conforme
+OV-00340,2026-04-18,Frente 02,Excavación material suelto,m3,Pavimentadora,6,885.44,849.52,95.94,9.49,0.9,8411.65,8171.31,Sin incidencia,Conforme
+OV-00341,2026-04-18,Frente 02,Cunetas de concreto,m,Cargador frontal,7,119.53,102.13,85.44,9.98,0.0,17331.59,15090.03,Cambio de frente,Observado
+OV-00342,2026-04-19,Frente 02,Subbase granular,m3,Rodillo,4,489.13,360.32,73.67,9.39,0.1,15652.24,12216.03,Falla mecánica,Conforme
+OV-00343,2026-04-19,Frente 03,Excavación roca fija,m3,Volquete,9,369.6,435.58,117.85,10.22,1.16,10348.8,12657.32,Sin incidencia,Conforme
+OV-00344,2026-04-19,Frente 02,Base granular,m3,Excavadora,8,477.36,478.65,100.27,9.31,1.16,18139.7,18870.19,Sin incidencia,Conforme
+OV-00345,2026-04-20,Frente 03,Desbroce y limpieza,m2,Excavadora,4,1779.78,1605.19,90.19,7.33,1.0,4983.39,4597.01,Cambio de frente,Conforme
+OV-00346,2026-04-20,Frente 03,Subbase granular,m3,Excavadora,7,523.79,535.45,102.23,9.43,1.48,16761.31,18371.39,Abastecimiento de material,Conforme
+OV-00347,2026-04-21,Frente 03,Excavación roca fija,m3,Pavimentadora,7,403.31,312.3,77.43,8.72,0.98,11292.78,9306.59,Abastecimiento de material,Conforme
+OV-00348,2026-04-21,Frente 03,Pavimento asfáltico,t,Rodillo,5,307.18,352.73,114.83,6.11,0.92,56829.12,69950.21,Sin incidencia,Conforme
+OV-00349,2026-04-22,Frente 01,Cunetas de concreto,m,Rodillo,8,110.88,96.7,87.21,11.81,0.63,16077.54,15064.88,Clima,Conforme
+OV-00350,2026-04-22,Frente 03,Excavación roca fija,m3,Volquete,9,428.59,444.28,103.66,8.39,0.71,12000.54,13625.77,Abastecimiento de material,Conforme
+OV-00351,2026-04-22,Frente 03,Excavación material suelto,m3,Pavimentadora,9,984.67,758.1,76.99,10.61,0.78,9354.36,7325.98,Espera de topografía,Conforme
+OV-00352,2026-04-23,Frente 02,Pavimento asfáltico,t,Volquete,5,304.5,349.07,114.64,10.9,0.32,56331.79,65766.14,Falla mecánica,Conforme
+OV-00353,2026-04-23,Frente 01,Cunetas de concreto,m,Motoniveladora,4,108.72,84.97,78.16,9.02,0.86,15764.14,12864.08,Sin incidencia,Conforme
+OV-00354,2026-04-24,Frente 02,Subbase granular,m3,Cargador frontal,6,472.49,428.13,90.61,11.17,0.89,15119.53,14635.62,Clima,Observado
+OV-00355,2026-04-24,Frente 01,Pavimento asfáltico,t,Rodillo,7,314.82,255.91,81.29,5.92,1.43,58242.14,48853.71,Clima,Conforme
+OV-00356,2026-04-24,Frente 02,Cunetas de concreto,m,Motoniveladora,7,111.12,87.94,79.14,9.18,1.45,16112.68,13213.98,Sin incidencia,Conforme
+OV-00357,2026-04-25,Frente 01,Base granular,m3,Volquete,8,404.8,364.83,90.13,8.3,0.35,15382.4,14380.41,Abastecimiento de material,Conforme
+OV-00358,2026-04-25,Frente 03,Cunetas de concreto,m,Cargador frontal,9,117.42,109.89,93.59,7.97,1.1,17025.19,17428.53,Sin incidencia,Observado
+OV-00359,2026-04-25,Frente 01,Excavación material suelto,m3,Cargador frontal,7,1014.3,944.58,93.13,8.27,0.36,9635.8,9339.11,Sin incidencia,Conforme
+OV-00360,2026-04-26,Frente 02,Excavación roca fija,m3,Excavadora,7,407.55,311.24,76.37,11.04,0.9,11411.44,8913.34,Falla mecánica,Conforme
+OV-00361,2026-04-26,Frente 02,Base granular,m3,Pavimentadora,8,492.02,420.98,85.56,9.59,0.0,18696.67,17026.83,Sin incidencia,Conforme
+OV-00362,2026-04-27,Frente 01,Excavación roca fija,m3,Excavadora,9,431.2,331.9,76.97,7.19,0.54,12073.51,9840.27,Sin incidencia,Conforme
+OV-00363,2026-04-27,Frente 02,Cunetas de concreto,m,Excavadora,5,120.48,110.81,91.97,10.34,0.0,17469.97,16367.07,Sin incidencia,Conforme
+OV-00364,2026-04-27,Frente 02,Excavación material suelto,m3,Volquete,5,836.0,801.0,95.81,9.2,0.0,7942.0,8176.91,Sin incidencia,Conforme
+OV-00365,2026-04-27,Frente 01,Subbase granular,m3,Pavimentadora,5,525.69,450.15,85.63,6.94,0.55,16822.11,15159.21,Cambio de frente,Conforme
+OV-00366,2026-04-28,Frente 02,Desbroce y limpieza,m2,Pavimentadora,4,1852.71,1471.28,79.41,9.62,0.66,5187.59,4362.44,Cambio de frente,Conforme
+OV-00367,2026-04-28,Frente 03,Excavación material suelto,m3,Cargador frontal,9,958.21,754.68,78.76,8.44,1.28,9102.97,7658.15,Sin incidencia,Conforme
+OV-00368,2026-04-28,Frente 03,Base granular,m3,Volquete,4,460.56,319.32,69.33,7.51,0.41,17501.13,12730.54,Abastecimiento de material,Conforme
+OV-00369,2026-04-29,Frente 03,Subbase granular,m3,Rodillo,8,530.77,514.64,96.96,6.92,0.0,16984.67,17304.94,Sin incidencia,Conforme
+OV-00370,2026-04-29,Frente 02,Base granular,m3,Rodillo,9,454.68,433.17,95.27,9.65,1.03,17277.79,17802.26,Espera de topografía,Conforme
+OV-00371,2026-04-29,Frente 02,Excavación material suelto,m3,Excavadora,4,946.25,798.81,84.42,8.67,0.42,8989.42,7602.04,Sin incidencia,Conforme
+OV-00372,2026-04-30,Frente 01,Base granular,m3,Pavimentadora,4,497.31,575.62,115.75,8.53,0.02,18897.64,23300.66,Sin incidencia,Conforme
+OV-00373,2026-04-30,Frente 03,Desbroce y limpieza,m2,Volquete,8,1987.18,2021.4,101.72,9.57,0.87,5564.09,5902.28,Sin incidencia,Conforme
+OV-00374,2026-04-30,Frente 02,Pavimento asfáltico,t,Excavadora,4,315.34,238.63,75.67,9.41,1.04,58338.47,44782.72,Sin incidencia,Conforme
+OV-00375,2026-04-30,Frente 03,Cunetas de concreto,m,Cargador frontal,9,122.75,106.51,86.77,10.18,0.74,17798.75,16214.19,Sin incidencia,Conforme
+OV-00376,2026-05-01,Frente 01,Base granular,m3,Excavadora,8,453.1,464.75,102.57,9.63,1.08,17217.8,18440.02,Clima,Conforme
+OV-00377,2026-05-01,Frente 03,Excavación material suelto,m3,Motoniveladora,5,899.12,611.21,67.98,9.56,1.62,8541.64,6289.74,Cambio de frente,Conforme
+OV-00378,2026-05-01,Frente 03,Excavación roca fija,m3,Pavimentadora,8,390.73,320.08,81.92,8.05,1.09,10940.37,9039.59,Espera de topografía,Conforme
+OV-00379,2026-05-02,Frente 02,Base granular,m3,Excavadora,4,451.94,440.92,97.56,8.29,0.0,17173.91,18036.01,Sin incidencia,Conforme
+OV-00380,2026-05-02,Frente 03,Pavimento asfáltico,t,Excavadora,6,307.9,211.8,68.79,6.68,0.44,56961.89,39982.52,Sin incidencia,Observado
+OV-00381,2026-05-03,Frente 02,Pavimento asfáltico,t,Rodillo,6,305.44,278.12,91.06,8.86,1.29,56505.49,55214.42,Sin incidencia,Conforme
+OV-00382,2026-05-03,Frente 03,Desbroce y limpieza,m2,Excavadora,8,1845.23,1437.77,77.92,9.53,0.91,5166.64,4305.09,Sin incidencia,Conforme
+OV-00383,2026-05-03,Frente 02,Subbase granular,m3,Rodillo,5,487.84,467.3,95.79,8.37,0.0,15610.85,15781.45,Sin incidencia,Conforme
+OV-00384,2026-05-03,Frente 03,Base granular,m3,Rodillo,7,461.1,444.03,96.3,8.38,0.68,17521.69,18170.71,Sin incidencia,Conforme
+OV-00385,2026-05-04,Frente 03,Subbase granular,m3,Volquete,4,471.65,467.84,99.19,10.87,0.86,15092.69,16129.88,Sin incidencia,Conforme
+OV-00386,2026-05-04,Frente 03,Cunetas de concreto,m,Cargador frontal,4,123.37,117.53,95.27,7.9,1.15,17888.02,17802.23,Clima,Conforme
+OV-00387,2026-05-05,Frente 02,Excavación roca fija,m3,Rodillo,6,397.12,451.42,113.67,10.03,0.09,11119.32,12958.39,Sin incidencia,Conforme
+OV-00388,2026-05-05,Frente 02,Base granular,m3,Pavimentadora,8,448.05,308.44,68.84,8.48,0.4,17025.92,12821.27,Sin incidencia,Conforme
+OV-00389,2026-05-06,Frente 01,Subbase granular,m3,Excavadora,9,469.38,434.41,92.55,10.06,0.0,15020.27,14299.29,Clima,Conforme
+OV-00390,2026-05-06,Frente 01,Desbroce y limpieza,m2,Motoniveladora,5,1904.67,1425.48,74.84,10.98,0.0,5333.07,4321.18,Sin incidencia,Conforme
+OV-00391,2026-05-06,Frente 01,Excavación roca fija,m3,Pavimentadora,4,411.77,395.62,96.08,6.84,0.83,11529.44,11726.03,Sin incidencia,Conforme
+OV-00392,2026-05-06,Frente 03,Pavimento asfáltico,t,Motoniveladora,9,307.91,250.61,81.39,8.66,1.04,56962.78,46965.1,Sin incidencia,Conforme
+OV-00393,2026-05-07,Frente 03,Excavación material suelto,m3,Cargador frontal,5,850.75,816.42,95.96,11.41,0.95,8082.11,8388.36,Cambio de frente,Conforme
+OV-00394,2026-05-07,Frente 02,Excavación roca fija,m3,Motoniveladora,7,431.15,395.13,91.64,6.27,0.0,12072.33,11628.03,Sin incidencia,Conforme
+OV-00395,2026-05-07,Frente 01,Pavimento asfáltico,t,Volquete,7,332.64,314.77,94.63,7.37,0.93,61539.08,60624.84,Clima,Conforme
+OV-00396,2026-05-07,Frente 01,Base granular,m3,Excavadora,7,481.47,494.32,102.67,7.78,0.54,18295.7,18856.79,Espera de topografía,Observado
+OV-00397,2026-05-08,Frente 01,Desbroce y limpieza,m2,Cargador frontal,7,1878.32,1381.23,73.54,10.03,0.38,5259.29,4151.78,Cambio de frente,Conforme
+OV-00398,2026-05-08,Frente 01,Base granular,m3,Excavadora,8,420.2,370.42,88.15,10.2,0.24,15967.44,15005.79,Sin incidencia,Conforme
+OV-00399,2026-05-09,Frente 02,Base granular,m3,Rodillo,8,453.4,342.33,75.5,11.19,0.6,17229.2,13762.66,Sin incidencia,Conforme
+OV-00400,2026-05-09,Frente 01,Excavación roca fija,m3,Cargador frontal,4,438.39,425.09,96.96,10.68,0.62,12275.04,12227.94,Sin incidencia,Conforme
+OV-00401,2026-05-10,Frente 02,Base granular,m3,Rodillo,5,404.8,410.92,101.51,9.15,0.45,15382.4,15636.46,Sin incidencia,Conforme
+OV-00402,2026-05-10,Frente 02,Desbroce y limpieza,m2,Motoniveladora,5,1853.82,2148.48,115.89,9.31,0.72,5190.69,6402.74,Falla mecánica,Conforme
+OV-00403,2026-05-10,Frente 01,Excavación roca fija,m3,Pavimentadora,4,396.77,346.85,87.42,7.43,0.4,11109.42,10470.64,Abastecimiento de material,Conforme
+OV-00404,2026-05-10,Frente 02,Subbase granular,m3,Excavadora,6,530.93,493.09,92.87,11.13,1.42,16989.73,16119.73,Sin incidencia,Conforme
+OV-00405,2026-05-11,Frente 01,Desbroce y limpieza,m2,Rodillo,4,1672.26,1585.24,94.8,8.76,0.99,4682.33,4580.7,Sin incidencia,Conforme
+OV-00406,2026-05-11,Frente 03,Cunetas de concreto,m,Cargador frontal,7,120.16,119.88,99.77,11.51,0.49,17422.94,17844.94,Abastecimiento de material,Conforme
+OV-00407,2026-05-11,Frente 01,Excavación material suelto,m3,Rodillo,8,1002.66,847.23,84.5,8.7,1.27,9525.31,8363.69,Sin incidencia,Conforme
+OV-00408,2026-05-12,Frente 01,Desbroce y limpieza,m2,Volquete,4,1746.34,2095.61,120.0,8.57,0.28,4889.75,6418.71,Sin incidencia,Conforme
+OV-00409,2026-05-12,Frente 01,Subbase granular,m3,Pavimentadora,5,564.34,526.5,93.29,10.47,0.99,18058.95,17475.75,Sin incidencia,Conforme
+OV-00410,2026-05-12,Frente 02,Cunetas de concreto,m,Cargador frontal,5,124.74,85.21,68.31,8.91,0.96,18087.55,13576.17,Sin incidencia,Conforme
+OV-00411,2026-05-12,Frente 02,Excavación material suelto,m3,Pavimentadora,4,982.32,748.03,76.15,9.27,1.37,9332.07,7770.01,Sin incidencia,Conforme
+OV-00412,2026-05-13,Frente 01,Excavación material suelto,m3,Motoniveladora,9,963.57,1094.0,113.54,9.14,0.0,9153.94,10767.18,Sin incidencia,Conforme
+OV-00413,2026-05-13,Frente 01,Pavimento asfáltico,t,Excavadora,9,302.94,244.55,80.73,9.04,1.12,56043.55,45464.4,Abastecimiento de material,Conforme
+OV-00414,2026-05-13,Frente 03,Desbroce y limpieza,m2,Motoniveladora,6,1785.72,1679.21,94.04,11.68,0.22,5000.0,5144.67,Sin incidencia,Conforme
+OV-00415,2026-05-13,Frente 03,Cunetas de concreto,m,Motoniveladora,6,106.42,96.68,90.84,8.94,0.45,15431.51,14511.34,Sin incidencia,Conforme
+OV-00416,2026-05-14,Frente 02,Pavimento asfáltico,t,Cargador frontal,6,325.69,286.52,87.97,9.44,0.52,60253.4,58004.54,Sin incidencia,Conforme
+OV-00417,2026-05-14,Frente 03,Subbase granular,m3,Pavimentadora,6,525.68,460.8,87.66,9.48,0.46,16821.7,15502.98,Sin incidencia,Conforme
+OV-00418,2026-05-15,Frente 03,Excavación material suelto,m3,Volquete,4,893.51,965.77,108.09,8.66,0.57,8488.37,9916.55,Sin incidencia,Conforme
+OV-00419,2026-05-15,Frente 01,Excavación roca fija,m3,Excavadora,5,421.67,385.38,91.39,9.42,1.33,11806.85,10912.39,Cambio de frente,Conforme
+OV-00420,2026-05-15,Frente 03,Base granular,m3,Rodillo,6,483.36,513.81,106.3,8.49,0.0,18367.51,21441.93,Falla mecánica,Conforme
+OV-00421,2026-05-15,Frente 02,Subbase granular,m3,Rodillo,8,568.68,457.97,80.53,9.83,1.28,18197.91,14818.15,Sin incidencia,Conforme
+OV-00422,2026-05-16,Frente 02,Cunetas de concreto,m,Excavadora,5,109.54,107.89,98.5,11.14,0.88,15883.28,16673.37,Abastecimiento de material,Conforme
+OV-00423,2026-05-16,Frente 02,Excavación roca fija,m3,Excavadora,7,416.56,447.63,107.46,10.87,0.93,11663.64,13038.28,Abastecimiento de material,Conforme
+OV-00424,2026-05-16,Frente 01,Pavimento asfáltico,t,Excavadora,7,299.83,270.92,90.36,10.07,0.72,55468.85,54896.56,Sin incidencia,Conforme
+OV-00425,2026-05-17,Frente 01,Excavación roca fija,m3,Motoniveladora,6,399.07,439.96,110.24,9.94,0.11,11174.08,12528.94,Cambio de frente,Conforme
+OV-00426,2026-05-17,Frente 02,Pavimento asfáltico,t,Volquete,6,308.44,342.66,111.09,10.75,0.77,57061.33,66644.3,Sin incidencia,Conforme
+OV-00427,2026-05-17,Frente 01,Desbroce y limpieza,m2,Cargador frontal,5,1932.07,1476.96,76.44,8.81,0.73,5409.8,4412.48,Cambio de frente,Conforme
+OV-00428,2026-05-18,Frente 03,Desbroce y limpieza,m2,Pavimentadora,6,1900.63,1393.87,73.34,11.43,1.96,5321.76,3987.05,Abastecimiento de material,Conforme
+OV-00429,2026-05-18,Frente 01,Excavación material suelto,m3,Excavadora,8,919.49,804.03,87.44,8.98,0.76,8735.19,8304.94,Sin incidencia,Conforme
+OV-00430,2026-05-18,Frente 01,Excavación roca fija,m3,Volquete,6,419.47,346.17,82.53,8.99,1.43,11745.22,10110.18,Sin incidencia,Conforme
+OV-00431,2026-05-19,Frente 02,Subbase granular,m3,Pavimentadora,4,558.99,544.27,97.37,11.48,1.01,17887.54,18972.69,Sin incidencia,Conforme
+OV-00432,2026-05-19,Frente 02,Cunetas de concreto,m,Excavadora,8,111.96,97.65,87.22,8.1,0.47,16234.67,14709.82,Sin incidencia,Conforme
+OV-00433,2026-05-19,Frente 01,Desbroce y limpieza,m2,Pavimentadora,8,1778.95,1866.4,104.92,9.83,0.27,4981.06,5513.56,Sin incidencia,Conforme
+OV-00434,2026-05-19,Frente 03,Pavimento asfáltico,t,Excavadora,8,315.12,219.67,69.71,10.11,0.03,58297.0,43063.77,Espera de topografía,Conforme
+OV-00435,2026-05-20,Frente 03,Pavimento asfáltico,t,Pavimentadora,6,299.25,278.42,93.04,11.16,0.54,55361.21,54793.88,Sin incidencia,Conforme
+OV-00436,2026-05-20,Frente 02,Subbase granular,m3,Motoniveladora,6,504.27,533.98,105.89,7.68,0.09,16136.65,17247.82,Abastecimiento de material,Conforme
+OV-00437,2026-05-20,Frente 03,Base granular,m3,Motoniveladora,6,449.33,436.15,97.07,9.08,0.98,17074.66,17685.35,Cambio de frente,Conforme
+OV-00438,2026-05-21,Frente 03,Cunetas de concreto,m,Rodillo,9,114.05,107.0,93.81,8.69,0.47,16537.47,15859.48,Sin incidencia,Conforme
+OV-00439,2026-05-21,Frente 01,Excavación material suelto,m3,Pavimentadora,7,943.42,685.34,72.64,9.74,0.34,8962.51,7023.89,Sin incidencia,Conforme
+OV-00440,2026-05-21,Frente 03,Desbroce y limpieza,m2,Pavimentadora,4,1843.36,1579.78,85.7,6.63,0.82,5161.41,4828.46,Sin incidencia,Conforme
+OV-00441,2026-05-22,Frente 03,Excavación roca fija,m3,Rodillo,6,401.5,366.59,91.31,9.16,0.61,11241.9,10469.66,Sin incidencia,Conforme
+OV-00442,2026-05-22,Frente 01,Excavación material suelto,m3,Rodillo,6,944.35,472.18,50.0,11.58,0.0,8971.34,4636.89,Sin incidencia,Conforme
+OV-00443,2026-05-22,Frente 01,Desbroce y limpieza,m2,Rodillo,8,1852.06,1420.28,76.69,7.58,0.91,5185.76,4250.94,Sin incidencia,Observado
+OV-00444,2026-05-23,Frente 01,Excavación material suelto,m3,Volquete,8,932.02,916.57,98.34,10.57,0.82,8854.2,8750.49,Abastecimiento de material,Conforme
+OV-00445,2026-05-23,Frente 02,Excavación roca fija,m3,Excavadora,7,468.5,447.74,95.57,9.54,0.7,13117.94,13116.71,Espera de topografía,Conforme
+OV-00446,2026-05-23,Frente 01,Cunetas de concreto,m,Cargador frontal,8,113.64,87.38,76.89,9.86,0.0,16478.22,13063.44,Sin incidencia,Conforme
+OV-00447,2026-05-24,Frente 01,Desbroce y limpieza,m2,Motoniveladora,5,1834.28,2110.76,115.07,8.62,0.28,5135.99,6369.51,Cambio de frente,Conforme
+OV-00448,2026-05-24,Frente 02,Cunetas de concreto,m,Volquete,6,107.26,94.67,88.26,11.55,1.78,15552.39,14224.74,Cambio de frente,Conforme
+OV-00449,2026-05-24,Frente 01,Subbase granular,m3,Motoniveladora,8,475.18,348.25,73.29,8.02,0.36,15205.71,12066.58,Cambio de frente,Conforme
+OV-00450,2026-05-25,Frente 01,Excavación material suelto,m3,Pavimentadora,5,1015.24,882.65,86.94,7.62,0.87,9644.78,8409.42,Sin incidencia,Conforme
+OV-00451,2026-05-25,Frente 03,Pavimento asfáltico,t,Motoniveladora,7,303.73,239.25,78.77,9.06,0.0,56189.74,45320.33,Espera de topografía,Conforme
+OV-00452,2026-05-25,Frente 01,Excavación roca fija,m3,Motoniveladora,4,405.87,377.38,92.98,8.94,0.92,11364.45,10974.15,Cambio de frente,Conforme
+OV-00453,2026-05-25,Frente 01,Subbase granular,m3,Volquete,9,525.64,524.15,99.72,11.35,0.0,16820.6,18127.19,Sin incidencia,Conforme
+OV-00454,2026-05-26,Frente 01,Subbase granular,m3,Motoniveladora,8,492.72,427.98,86.86,10.95,0.36,15767.16,14387.34,Sin incidencia,Conforme
+OV-00455,2026-05-26,Frente 01,Cunetas de concreto,m,Excavadora,8,109.27,108.97,99.72,7.79,0.68,15844.77,16691.16,Abastecimiento de material,Conforme
+OV-00456,2026-05-27,Frente 02,Pavimento asfáltico,t,Motoniveladora,8,307.51,245.45,79.82,8.16,0.37,56889.84,45925.29,Sin incidencia,Conforme
+OV-00457,2026-05-27,Frente 03,Excavación roca fija,m3,Excavadora,9,415.49,450.12,108.33,8.18,1.23,11633.68,13420.93,Abastecimiento de material,Conforme
+OV-00458,2026-05-28,Frente 02,Excavación material suelto,m3,Motoniveladora,6,971.13,894.09,92.07,10.23,1.16,9225.75,9131.7,Sin incidencia,Conforme
+OV-00459,2026-05-28,Frente 01,Base granular,m3,Rodillo,9,492.34,382.05,77.6,11.87,0.63,18708.88,15933.73,Sin incidencia,Conforme
+OV-00460,2026-05-28,Frente 01,Desbroce y limpieza,m2,Cargador frontal,5,1890.14,1626.18,86.03,10.79,0.24,5292.4,4900.75,Sin incidencia,Conforme
+OV-00461,2026-05-28,Frente 03,Excavación roca fija,m3,Rodillo,7,444.23,462.01,104.0,8.72,1.15,12438.55,13867.56,Clima,Observado
+OV-00462,2026-05-29,Frente 03,Excavación material suelto,m3,Motoniveladora,4,951.97,733.49,77.05,11.16,1.05,9043.75,7581.94,Abastecimiento de material,Conforme
+OV-00463,2026-05-29,Frente 03,Desbroce y limpieza,m2,Excavadora,7,1799.84,1922.41,106.81,8.89,1.02,5039.55,5499.01,Sin incidencia,Conforme
+OV-00464,2026-05-29,Frente 01,Base granular,m3,Rodillo,6,446.07,442.23,99.14,10.22,0.96,16950.73,17641.53,Sin incidencia,Conforme
+OV-00465,2026-05-30,Frente 03,Desbroce y limpieza,m2,Motoniveladora,8,1756.84,1890.95,107.63,9.89,0.95,4919.16,5414.83,Cambio de frente,Conforme
+OV-00466,2026-05-30,Frente 01,Excavación material suelto,m3,Pavimentadora,6,992.43,870.51,87.71,8.46,0.87,9428.13,9017.55,Sin incidencia,Conforme
+OV-00467,2026-05-30,Frente 03,Cunetas de concreto,m,Motoniveladora,7,107.21,122.88,114.61,6.94,0.0,15545.73,19414.74,Sin incidencia,Conforme
+OV-00468,2026-05-30,Frente 03,Excavación roca fija,m3,Pavimentadora,4,381.66,311.42,81.6,10.47,0.0,10686.35,9239.58,Sin incidencia,Conforme
+OV-00469,2026-05-31,Frente 03,Excavación roca fija,m3,Cargador frontal,8,394.15,354.02,89.82,9.98,0.79,11036.26,10280.46,Sin incidencia,Conforme
+OV-00470,2026-05-31,Frente 01,Desbroce y limpieza,m2,Excavadora,5,1701.68,1193.32,70.13,9.67,1.07,4764.71,3370.03,Cambio de frente,Conforme
+OV-00471,2026-06-01,Frente 03,Base granular,m3,Motoniveladora,9,483.38,473.51,97.96,9.45,0.47,18368.42,19442.61,Cambio de frente,Conforme
+OV-00472,2026-06-01,Frente 03,Desbroce y limpieza,m2,Volquete,4,1758.09,1290.78,73.42,9.12,0.93,4922.64,3955.4,Sin incidencia,Conforme
+OV-00473,2026-06-02,Frente 02,Excavación material suelto,m3,Pavimentadora,8,924.33,844.58,91.37,8.9,0.76,8781.15,8135.82,Falla mecánica,Observado
+OV-00474,2026-06-02,Frente 01,Excavación roca fija,m3,Motoniveladora,8,420.38,435.74,103.65,11.29,1.45,11770.58,13199.51,Espera de topografía,Conforme
+OV-00475,2026-06-02,Frente 03,Base granular,m3,Rodillo,9,473.97,519.72,109.65,8.8,1.31,18010.95,20108.47,Falla mecánica,Observado
+OV-00476,2026-06-02,Frente 01,Desbroce y limpieza,m2,Motoniveladora,5,1695.13,1637.43,96.6,9.22,0.0,4746.37,4631.13,Abastecimiento de material,Conforme
+OV-00477,2026-06-03,Frente 03,Pavimento asfáltico,t,Excavadora,4,296.03,271.46,91.7,8.57,0.24,54764.67,53073.69,Sin incidencia,Conforme
+OV-00478,2026-06-03,Frente 02,Subbase granular,m3,Motoniveladora,5,498.75,447.12,89.65,8.89,0.9,15960.08,14752.29,Clima,Conforme
+OV-00479,2026-06-04,Frente 01,Excavación roca fija,m3,Motoniveladora,4,369.6,305.18,82.57,9.0,0.82,10348.8,9055.24,Sin incidencia,Conforme
+OV-00480,2026-06-04,Frente 03,Cunetas de concreto,m,Cargador frontal,5,108.84,85.47,78.53,9.02,0.98,15781.42,13321.7,Abastecimiento de material,Conforme
+OV-00481,2026-06-05,Frente 01,Pavimento asfáltico,t,Rodillo,4,326.19,309.45,94.87,9.03,0.39,60344.29,59916.69,Sin incidencia,Conforme
+OV-00482,2026-06-05,Frente 01,Excavación roca fija,m3,Cargador frontal,7,444.86,428.37,96.29,9.93,0.74,12456.16,13050.64,Falla mecánica,Conforme
+OV-00483,2026-06-05,Frente 02,Desbroce y limpieza,m2,Pavimentadora,4,1707.59,1606.44,94.08,8.98,0.69,4781.25,4558.36,Sin incidencia,Conforme
+OV-00484,2026-06-05,Frente 02,Cunetas de concreto,m,Cargador frontal,5,108.35,89.2,82.32,7.53,1.19,15711.4,14120.82,Falla mecánica,Conforme
+OV-00485,2026-06-06,Frente 03,Subbase granular,m3,Cargador frontal,5,473.44,368.78,77.89,6.08,1.33,15150.1,12691.26,Sin incidencia,Conforme
+OV-00486,2026-06-06,Frente 01,Base granular,m3,Rodillo,8,469.35,410.9,87.55,9.45,0.52,17835.19,15841.3,Sin incidencia,Conforme
+OV-00487,2026-06-06,Frente 02,Cunetas de concreto,m,Pavimentadora,9,112.18,103.74,92.48,8.63,0.05,16266.02,15400.24,Sin incidencia,Observado
+OV-00488,2026-06-06,Frente 02,Excavación roca fija,m3,Rodillo,6,387.92,414.41,106.83,8.49,0.18,10861.82,12668.34,Clima,Conforme
+OV-00489,2026-06-07,Frente 03,Subbase granular,m3,Motoniveladora,5,543.16,454.72,83.72,8.71,1.13,17381.23,15101.53,Espera de topografía,Conforme
+OV-00490,2026-06-07,Frente 01,Excavación material suelto,m3,Motoniveladora,6,935.66,996.18,106.47,9.04,0.73,8888.79,9680.5,Sin incidencia,Conforme
+OV-00491,2026-06-07,Frente 02,Base granular,m3,Rodillo,7,454.3,353.23,77.75,9.08,0.92,17263.46,14387.2,Clima,Conforme
+OV-00492,2026-06-07,Frente 02,Excavación roca fija,m3,Volquete,8,400.65,355.25,88.67,9.76,0.57,11218.27,10256.79,Sin incidencia,Conforme
+OV-00493,2026-06-08,Frente 02,Pavimento asfáltico,t,Volquete,7,321.29,262.69,81.76,9.18,0.1,59438.58,53295.05,Abastecimiento de material,Conforme
+OV-00494,2026-06-08,Frente 01,Subbase granular,m3,Excavadora,8,505.98,422.8,83.56,9.22,0.9,16191.34,13742.77,Sin incidencia,Conforme
+OV-00495,2026-06-08,Frente 01,Excavación roca fija,m3,Volquete,6,406.4,372.67,91.7,9.62,0.0,11379.17,10735.02,Sin incidencia,Conforme
+OV-00496,2026-06-08,Frente 01,Base granular,m3,Rodillo,4,472.37,373.04,78.97,10.27,0.0,17949.98,14781.47,Sin incidencia,Conforme
+OV-00497,2026-06-09,Frente 01,Pavimento asfáltico,t,Rodillo,7,300.79,197.39,65.62,9.49,0.59,55646.02,37916.19,Sin incidencia,Conforme
+OV-00498,2026-06-09,Frente 01,Excavación material suelto,m3,Excavadora,8,974.09,959.25,98.48,8.27,0.71,9253.88,9201.48,Sin incidencia,Conforme
+OV-00499,2026-06-09,Frente 03,Cunetas de concreto,m,Rodillo,5,114.54,106.66,93.12,11.21,0.75,16608.86,16144.26,Cambio de frente,Conforme
+OV-00500,2026-06-10,Frente 01,Excavación material suelto,m3,Volquete,4,931.77,738.99,79.31,7.53,0.48,8851.77,7692.58,Falla mecánica,Conforme
+OV-00501,2026-06-10,Frente 02,Cunetas de concreto,m,Volquete,9,115.39,89.77,77.8,11.48,1.75,16731.16,14091.47,Sin incidencia,Conforme
+OV-00502,2026-06-10,Frente 02,Subbase granular,m3,Pavimentadora,8,519.84,469.82,90.38,9.7,0.68,16634.98,15094.16,Clima,Conforme
+OV-00503,2026-06-11,Frente 03,Desbroce y limpieza,m2,Volquete,8,1803.84,1889.79,104.76,7.91,0.77,5050.75,5797.47,Clima,Conforme
+OV-00504,2026-06-11,Frente 02,Pavimento asfáltico,t,Motoniveladora,9,312.31,283.0,90.62,9.67,0.11,57777.0,55385.89,Sin incidencia,Conforme
+OV-00505,2026-06-11,Frente 01,Excavación material suelto,m3,Pavimentadora,8,933.47,857.49,91.86,7.68,0.82,8867.95,8298.16,Cambio de frente,Conforme
+OV-00506,2026-06-11,Frente 01,Cunetas de concreto,m,Excavadora,4,102.16,107.03,104.77,9.89,0.08,14812.83,16563.18,Sin incidencia,Conforme
+OV-00507,2026-06-12,Frente 03,Subbase granular,m3,Cargador frontal,4,524.61,509.75,97.17,9.71,1.26,16787.54,17046.71,Espera de topografía,Conforme
+OV-00508,2026-06-12,Frente 03,Excavación material suelto,m3,Cargador frontal,8,1005.22,760.4,75.64,8.59,0.32,9549.62,7873.13,Sin incidencia,Conforme
+OV-00509,2026-06-12,Frente 03,Desbroce y limpieza,m2,Cargador frontal,9,1804.31,1296.28,71.84,8.91,0.38,5052.07,3861.33,Sin incidencia,Conforme
+OV-00510,2026-06-12,Frente 01,Excavación roca fija,m3,Cargador frontal,9,413.24,495.89,120.0,10.1,0.0,11570.81,14426.9,Sin incidencia,Conforme
+OV-00511,2026-06-13,Frente 03,Cunetas de concreto,m,Excavadora,9,124.47,109.8,88.21,9.71,0.11,18048.54,17205.96,Sin incidencia,Conforme
+OV-00512,2026-06-13,Frente 01,Pavimento asfáltico,t,Volquete,5,327.41,227.86,69.59,10.77,1.08,60570.38,43085.67,Falla mecánica,Conforme
+OV-00513,2026-06-14,Frente 02,Pavimento asfáltico,t,Rodillo,6,300.15,274.17,91.34,9.5,1.29,55527.88,54605.27,Sin incidencia,Conforme
+OV-00514,2026-06-14,Frente 03,Subbase granular,m3,Excavadora,5,504.93,494.1,97.86,8.13,1.72,16157.69,16436.02,Sin incidencia,Conforme
+OV-00515,2026-06-14,Frente 02,Desbroce y limpieza,m2,Volquete,7,1860.37,1597.4,85.86,8.83,0.52,5209.05,4561.45,Sin incidencia,Conforme
+OV-00516,2026-06-14,Frente 01,Cunetas de concreto,m,Pavimentadora,9,115.96,105.36,90.86,10.74,1.15,16813.52,16331.24,Sin incidencia,Conforme
+OV-00517,2026-06-15,Frente 03,Cunetas de concreto,m,Rodillo,8,115.28,96.24,83.49,8.3,0.53,16715.98,13962.61,Clima,Conforme
+OV-00518,2026-06-15,Frente 02,Desbroce y limpieza,m2,Volquete,6,1756.89,1744.49,99.29,10.56,1.12,4919.3,5320.26,Sin incidencia,Conforme
+OV-00519,2026-06-15,Frente 01,Excavación roca fija,m3,Cargador frontal,4,459.85,438.77,95.42,8.14,0.63,12875.86,12732.65,Falla mecánica,Conforme
+OV-00520,2026-06-16,Frente 01,Cunetas de concreto,m,Volquete,6,119.27,94.96,79.62,10.11,0.96,17293.8,14068.91,Espera de topografía,Conforme
+OV-00521,2026-06-16,Frente 03,Excavación roca fija,m3,Pavimentadora,6,404.82,389.26,96.15,10.2,0.93,11335.03,11768.65,Abastecimiento de material,Conforme
+OV-00522,2026-06-16,Frente 01,Excavación material suelto,m3,Pavimentadora,6,1064.0,923.37,86.78,9.28,0.74,10108.0,9182.12,Abastecimiento de material,Conforme
+OV-00523,2026-06-16,Frente 02,Pavimento asfáltico,t,Volquete,8,289.94,279.23,96.31,10.54,1.05,53639.16,54530.95,Sin incidencia,Conforme
+OV-00524,2026-06-17,Frente 01,Excavación roca fija,m3,Motoniveladora,9,422.68,403.86,95.55,9.59,0.75,11835.05,11331.51,Sin incidencia,Conforme
+OV-00525,2026-06-17,Frente 02,Base granular,m3,Motoniveladora,8,448.08,468.1,104.47,10.07,0.02,17027.19,18375.58,Clima,Conforme
+OV-00526,2026-06-18,Frente 03,Excavación roca fija,m3,Cargador frontal,9,388.33,412.22,106.15,6.92,0.07,10873.22,12450.78,Sin incidencia,Conforme
+OV-00527,2026-06-18,Frente 01,Cunetas de concreto,m,Cargador frontal,6,112.96,118.93,105.28,8.3,0.56,16379.56,18209.67,Sin incidencia,Conforme
+OV-00528,2026-06-18,Frente 01,Base granular,m3,Motoniveladora,6,404.8,485.76,120.0,10.0,0.23,15382.4,19614.43,Clima,Conforme
+OV-00529,2026-06-18,Frente 03,Desbroce y limpieza,m2,Excavadora,4,1870.24,1511.81,80.83,9.3,0.0,5236.68,4403.94,Sin incidencia,Conforme
+OV-00530,2026-06-19,Frente 03,Pavimento asfáltico,t,Motoniveladora,9,328.72,342.66,104.24,9.07,1.23,60812.8,64682.93,Sin incidencia,Conforme
+OV-00531,2026-06-19,Frente 01,Base granular,m3,Pavimentadora,6,472.25,412.07,87.26,7.97,0.28,17945.5,16967.7,Sin incidencia,Conforme
+OV-00532,2026-06-19,Frente 01,Desbroce y limpieza,m2,Motoniveladora,7,1865.11,2072.56,111.12,9.05,1.65,5222.32,6352.62,Sin incidencia,Conforme
+OV-00533,2026-06-19,Frente 03,Excavación material suelto,m3,Volquete,5,909.92,868.19,95.41,8.55,1.12,8644.26,8963.64,Falla mecánica,Conforme
+OV-00534,2026-06-20,Frente 01,Cunetas de concreto,m,Rodillo,5,115.99,108.24,93.31,10.22,0.44,16818.58,16302.66,Espera de topografía,Conforme
+OV-00535,2026-06-20,Frente 01,Base granular,m3,Rodillo,4,457.87,343.92,75.11,8.3,1.21,17398.89,13264.41,Sin incidencia,Conforme
+OV-00536,2026-06-20,Frente 03,Subbase granular,m3,Volquete,9,525.85,420.06,79.88,8.24,0.9,16827.23,14649.31,Sin incidencia,Conforme
+OV-00537,2026-06-20,Frente 02,Pavimento asfáltico,t,Volquete,4,324.08,339.91,104.89,8.75,0.61,59954.68,63970.66,Espera de topografía,Conforme
+OV-00538,2026-06-21,Frente 02,Excavación material suelto,m3,Cargador frontal,8,879.22,785.33,89.32,10.75,1.47,8352.57,7769.02,Sin incidencia,Conforme
+OV-00539,2026-06-21,Frente 01,Subbase granular,m3,Cargador frontal,4,492.87,439.24,89.12,10.61,0.74,15771.91,14328.15,Abastecimiento de material,Conforme
+OV-00540,2026-06-21,Frente 03,Pavimento asfáltico,t,Volquete,4,272.8,290.37,106.44,8.7,0.53,50468.0,53803.59,Sin incidencia,Conforme
+OV-00541,2026-06-21,Frente 01,Desbroce y limpieza,m2,Cargador frontal,4,1751.7,1665.77,95.09,7.7,1.09,4904.76,4877.46,Sin incidencia,Conforme
+OV-00542,2026-06-22,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,299.03,235.87,78.88,8.35,0.66,55320.43,46526.85,Sin incidencia,Observado
+OV-00543,2026-06-22,Frente 03,Excavación material suelto,m3,Cargador frontal,4,953.36,910.0,95.45,8.46,0.0,9056.93,9213.38,Abastecimiento de material,Conforme
+OV-00544,2026-06-22,Frente 01,Excavación roca fija,m3,Volquete,4,406.45,338.26,83.22,7.99,0.0,11380.72,9676.59,Falla mecánica,Conforme
+OV-00545,2026-06-22,Frente 02,Subbase granular,m3,Pavimentadora,8,480.66,434.64,90.43,9.23,0.47,15381.08,15114.03,Sin incidencia,Observado
+OV-00546,2026-06-23,Frente 03,Cunetas de concreto,m,Motoniveladora,8,122.94,84.15,68.44,9.28,2.05,17826.78,12832.61,Sin incidencia,Conforme
+OV-00547,2026-06-23,Frente 03,Excavación roca fija,m3,Volquete,9,369.6,413.59,111.9,9.74,0.25,10348.8,12626.53,Sin incidencia,Conforme
+OV-00548,2026-06-23,Frente 01,Base granular,m3,Motoniveladora,4,467.44,402.89,86.19,8.95,0.09,17762.68,15484.32,Sin incidencia,Conforme
+OV-00549,2026-06-23,Frente 01,Pavimento asfáltico,t,Cargador frontal,6,334.2,341.12,102.07,9.79,0.53,61826.67,67708.37,Sin incidencia,Conforme
+OV-00550,2026-06-24,Frente 01,Pavimento asfáltico,t,Volquete,6,317.1,267.77,84.44,8.54,1.42,58662.92,50773.81,Sin incidencia,Conforme
+OV-00551,2026-06-24,Frente 01,Excavación material suelto,m3,Volquete,5,895.76,766.93,85.62,9.48,0.0,8509.74,7571.38,Falla mecánica,Conforme
+OV-00552,2026-06-25,Frente 03,Excavación roca fija,m3,Rodillo,9,388.87,362.44,93.2,10.78,0.45,10888.24,10744.8,Sin incidencia,Conforme
+OV-00553,2026-06-25,Frente 02,Base granular,m3,Volquete,5,456.34,390.28,85.52,10.13,0.0,17340.76,16174.74,Sin incidencia,Conforme
+OV-00554,2026-06-25,Frente 03,Cunetas de concreto,m,Excavadora,9,111.87,106.42,95.12,11.22,1.75,16221.54,15704.55,Sin incidencia,Conforme
+OV-00555,2026-06-26,Frente 03,Subbase granular,m3,Cargador frontal,8,465.2,548.9,117.99,11.4,1.15,14886.4,18179.32,Sin incidencia,Conforme
+OV-00556,2026-06-26,Frente 01,Excavación roca fija,m3,Cargador frontal,6,415.22,399.38,96.18,9.3,1.53,11626.14,11750.89,Sin incidencia,Conforme
+OV-00557,2026-06-26,Frente 02,Pavimento asfáltico,t,Volquete,6,322.35,320.72,99.5,7.97,1.06,59634.24,63665.57,Sin incidencia,Conforme
+OV-00558,2026-06-27,Frente 01,Cunetas de concreto,m,Excavadora,7,105.4,95.34,90.45,6.69,1.49,15283.01,14904.02,Sin incidencia,Conforme
+OV-00559,2026-06-27,Frente 03,Subbase granular,m3,Motoniveladora,5,522.35,491.31,94.06,10.6,0.45,16715.29,16365.62,Cambio de frente,Conforme
+OV-00560,2026-06-28,Frente 03,Subbase granular,m3,Pavimentadora,8,523.92,493.4,94.17,7.65,2.07,16765.54,16434.28,Sin incidencia,Conforme
+OV-00561,2026-06-28,Frente 03,Cunetas de concreto,m,Rodillo,9,113.49,106.19,93.57,8.72,0.43,16455.74,15473.37,Sin incidencia,Conforme
+OV-00562,2026-06-29,Frente 02,Base granular,m3,Volquete,4,466.93,395.97,84.8,10.45,0.87,17743.25,15695.74,Sin incidencia,Conforme
+OV-00563,2026-06-29,Frente 01,Desbroce y limpieza,m2,Pavimentadora,7,1705.84,1869.57,109.6,7.72,0.51,4776.35,5541.65,Cambio de frente,Conforme
+OV-00564,2026-06-29,Frente 02,Pavimento asfáltico,t,Cargador frontal,9,297.03,248.12,83.54,8.22,0.58,54949.99,46109.67,Sin incidencia,Conforme
+OV-00565,2026-06-29,Frente 02,Excavación material suelto,m3,Motoniveladora,6,928.05,680.87,73.37,8.41,0.62,8816.49,6542.47,Sin incidencia,Conforme
+OV-00566,2026-06-30,Frente 02,Cunetas de concreto,m,Excavadora,4,127.89,86.29,67.47,8.92,1.03,18544.08,13172.04,Sin incidencia,Conforme
+OV-00567,2026-06-30,Frente 02,Subbase granular,m3,Volquete,4,555.79,474.51,85.38,7.98,0.88,17785.36,16570.21,Sin incidencia,Conforme
+OV-00568,2026-06-30,Frente 03,Desbroce y limpieza,m2,Cargador frontal,9,1754.34,1632.66,93.06,9.38,0.24,4912.14,4826.18,Cambio de frente,Conforme
+OV-00569,2026-06-30,Frente 01,Excavación roca fija,m3,Pavimentadora,9,401.66,308.74,76.87,11.42,1.23,11246.6,9302.72,Falla mecánica,Conforme
+OV-00570,2026-07-01,Frente 02,Cunetas de concreto,m,Excavadora,8,119.04,112.84,94.79,12.0,1.42,17260.59,17409.26,Espera de topografía,Conforme
+OV-00571,2026-07-01,Frente 01,Subbase granular,m3,Pavimentadora,6,533.32,390.31,73.18,8.45,1.08,17066.3,12968.41,Clima,Conforme
+OV-00572,2026-07-01,Frente 03,Desbroce y limpieza,m2,Cargador frontal,9,1716.16,1958.48,114.12,9.32,1.33,4805.24,5867.81,Sin incidencia,Conforme
+OV-00573,2026-07-02,Frente 01,Cunetas de concreto,m,Pavimentadora,4,118.16,122.32,103.52,7.79,0.13,17133.2,18429.14,Abastecimiento de material,Conforme
+OV-00574,2026-07-02,Frente 03,Pavimento asfáltico,t,Motoniveladora,7,318.62,248.68,78.05,10.26,1.0,58944.43,49144.68,Sin incidencia,Conforme
+OV-00575,2026-07-02,Frente 01,Desbroce y limpieza,m2,Pavimentadora,5,1669.96,1662.05,99.53,10.51,1.17,4675.89,4847.32,Sin incidencia,Conforme
+OV-00576,2026-07-03,Frente 01,Cunetas de concreto,m,Cargador frontal,8,114.23,108.62,95.08,8.89,0.33,16563.88,16758.29,Espera de topografía,Conforme
+OV-00577,2026-07-03,Frente 02,Pavimento asfáltico,t,Cargador frontal,8,308.64,312.88,101.37,7.55,0.1,57098.28,57893.23,Sin incidencia,Conforme
+OV-00578,2026-07-03,Frente 03,Base granular,m3,Excavadora,4,457.92,478.32,104.45,9.84,0.0,17401.04,18635.28,Cambio de frente,Conforme
+OV-00579,2026-07-04,Frente 03,Excavación material suelto,m3,Cargador frontal,6,928.72,777.42,83.71,10.57,1.23,8822.81,7527.19,Clima,Conforme
+OV-00580,2026-07-04,Frente 01,Excavación roca fija,m3,Volquete,7,427.83,372.42,87.05,9.51,0.84,11979.13,11142.25,Sin incidencia,Conforme
+OV-00581,2026-07-04,Frente 02,Cunetas de concreto,m,Volquete,7,108.94,115.78,106.28,9.52,0.0,15795.71,17498.58,Sin incidencia,Conforme
+OV-00582,2026-07-04,Frente 03,Base granular,m3,Pavimentadora,5,431.73,365.6,84.68,10.53,1.22,16405.58,14856.77,Cambio de frente,Conforme
+OV-00583,2026-07-05,Frente 01,Subbase granular,m3,Rodillo,5,522.0,414.4,79.39,8.87,0.77,16704.08,14449.82,Sin incidencia,Observado
+OV-00584,2026-07-05,Frente 01,Desbroce y limpieza,m2,Motoniveladora,9,1756.24,1767.5,100.64,6.35,0.05,4917.46,5354.26,Clima,Conforme
+OV-00585,2026-07-06,Frente 02,Pavimento asfáltico,t,Cargador frontal,9,278.84,215.62,77.33,8.74,1.01,51585.05,41733.47,Sin incidencia,Conforme
+OV-00586,2026-07-06,Frente 01,Base granular,m3,Motoniveladora,4,462.51,433.49,93.72,10.18,0.69,17575.41,18099.31,Sin incidencia,Conforme
+OV-00587,2026-07-07,Frente 02,Excavación roca fija,m3,Cargador frontal,7,450.11,345.32,76.72,9.54,0.59,12603.1,10041.11,Sin incidencia,Conforme
+OV-00588,2026-07-07,Frente 01,Desbroce y limpieza,m2,Excavadora,7,1858.6,1511.74,81.34,9.78,0.06,5204.09,4433.89,Espera de topografía,Observado
+OV-00589,2026-07-07,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,287.02,193.02,67.25,10.11,0.35,53097.78,36631.79,Sin incidencia,Conforme
+OV-00590,2026-07-07,Frente 03,Excavación material suelto,m3,Cargador frontal,8,993.76,811.83,81.69,8.16,0.24,9440.75,7794.9,Falla mecánica,Conforme
+OV-00591,2026-07-08,Frente 01,Subbase granular,m3,Motoniveladora,5,524.56,414.78,79.07,8.96,1.39,16785.92,13702.3,Sin incidencia,Conforme
+OV-00592,2026-07-08,Frente 01,Excavación roca fija,m3,Rodillo,7,419.76,448.37,106.82,7.69,0.37,11753.32,12626.27,Falla mecánica,Conforme
+OV-00593,2026-07-08,Frente 01,Cunetas de concreto,m,Pavimentadora,7,122.87,101.5,82.61,8.31,0.96,17815.72,14898.59,Falla mecánica,Conforme
+OV-00594,2026-07-09,Frente 03,Excavación material suelto,m3,Cargador frontal,8,856.41,910.73,106.34,9.54,0.39,8135.94,8848.32,Sin incidencia,Conforme
+OV-00595,2026-07-09,Frente 03,Desbroce y limpieza,m2,Motoniveladora,7,1912.5,2166.43,113.28,8.35,0.31,5355.0,6317.13,Clima,Conforme
+OV-00596,2026-07-10,Frente 01,Base granular,m3,Excavadora,4,486.69,503.31,103.42,6.74,0.7,18494.07,20386.11,Clima,Conforme
+OV-00597,2026-07-10,Frente 01,Subbase granular,m3,Cargador frontal,8,582.4,524.42,90.05,8.67,1.01,18636.8,17719.47,Cambio de frente,Conforme
+OV-00598,2026-07-11,Frente 01,Excavación material suelto,m3,Cargador frontal,7,904.88,787.45,87.02,8.05,0.56,8596.32,8168.93,Sin incidencia,Conforme
+OV-00599,2026-07-11,Frente 02,Pavimento asfáltico,t,Excavadora,5,272.8,231.44,84.84,9.58,0.51,50468.0,46475.66,Cambio de frente,Conforme
+OV-00600,2026-07-11,Frente 02,Subbase granular,m3,Cargador frontal,9,529.63,526.75,99.46,10.15,0.4,16948.26,16983.86,Sin incidencia,Conforme
+OV-00601,2026-07-11,Frente 03,Desbroce y limpieza,m2,Volquete,7,1769.24,1837.7,103.87,9.97,0.07,4953.86,5499.4,Sin incidencia,Conforme
+OV-00602,2026-07-12,Frente 02,Subbase granular,m3,Excavadora,5,559.61,535.24,95.65,9.64,1.03,17907.4,17378.2,Sin incidencia,Conforme
+OV-00603,2026-07-12,Frente 01,Excavación material suelto,m3,Volquete,6,971.7,723.53,74.46,9.59,1.88,9231.13,7090.13,Sin incidencia,Conforme
+OV-00604,2026-07-12,Frente 01,Pavimento asfáltico,t,Motoniveladora,4,335.79,274.22,81.67,8.82,0.55,62120.71,53677.11,Cambio de frente,Conforme
+OV-00605,2026-07-12,Frente 01,Excavación roca fija,m3,Excavadora,6,422.71,379.84,89.86,9.81,1.03,11836.0,10796.78,Sin incidencia,Conforme
+OV-00606,2026-07-13,Frente 03,Subbase granular,m3,Cargador frontal,9,489.63,389.19,79.49,9.12,0.04,15668.1,13112.93,Falla mecánica,Conforme
+OV-00607,2026-07-13,Frente 03,Cunetas de concreto,m,Pavimentadora,5,111.84,109.73,98.12,10.27,0.96,16216.18,17087.56,Sin incidencia,Conforme
+OV-00608,2026-07-13,Frente 03,Excavación roca fija,m3,Motoniveladora,5,426.71,449.7,105.39,9.28,0.84,11948.01,12753.23,Sin incidencia,Conforme
+OV-00609,2026-07-13,Frente 03,Desbroce y limpieza,m2,Pavimentadora,8,1884.61,1791.27,95.05,9.24,1.26,5276.91,5496.53,Sin incidencia,Conforme
+OV-00610,2026-07-14,Frente 02,Pavimento asfáltico,t,Pavimentadora,7,305.1,239.77,78.59,9.15,0.03,56443.48,46207.53,Sin incidencia,Conforme
+OV-00611,2026-07-14,Frente 03,Base granular,m3,Cargador frontal,4,439.26,405.92,92.41,6.88,0.39,16691.76,16840.37,Espera de topografía,Conforme
+OV-00612,2026-07-14,Frente 02,Excavación roca fija,m3,Cargador frontal,8,376.37,396.93,105.46,8.12,0.73,10538.4,11789.79,Sin incidencia,Conforme
+OV-00613,2026-07-14,Frente 03,Cunetas de concreto,m,Volquete,9,115.34,127.31,110.38,10.8,0.68,16724.08,19651.57,Sin incidencia,Conforme
+OV-00614,2026-07-15,Frente 02,Excavación material suelto,m3,Pavimentadora,8,946.85,1049.07,110.8,8.52,0.64,8995.08,10843.84,Sin incidencia,Conforme
+OV-00615,2026-07-15,Frente 01,Subbase granular,m3,Motoniveladora,5,541.39,502.07,92.74,9.64,1.49,17324.46,16320.63,Sin incidencia,Conforme
+OV-00616,2026-07-15,Frente 02,Desbroce y limpieza,m2,Motoniveladora,9,1606.53,1404.3,87.41,7.74,1.15,4498.28,4081.96,Sin incidencia,Conforme
+OV-00617,2026-07-16,Frente 03,Subbase granular,m3,Cargador frontal,5,500.28,592.64,118.46,8.83,0.83,16009.1,19141.26,Sin incidencia,Conforme
+OV-00618,2026-07-16,Frente 03,Cunetas de concreto,m,Pavimentadora,8,115.67,138.81,120.0,9.5,0.0,16772.54,20393.81,Cambio de frente,Conforme
+OV-00619,2026-07-17,Frente 01,Cunetas de concreto,m,Volquete,7,114.66,123.44,107.66,8.67,1.44,16625.24,19560.81,Sin incidencia,Conforme
+OV-00620,2026-07-17,Frente 02,Excavación roca fija,m3,Pavimentadora,7,420.09,327.56,77.97,11.82,0.0,11762.43,9992.77,Sin incidencia,Conforme
+OV-00621,2026-07-17,Frente 01,Excavación material suelto,m3,Excavadora,7,962.79,1105.37,114.81,8.51,1.03,9146.51,10910.63,Sin incidencia,Conforme
+OV-00622,2026-07-18,Frente 03,Pavimento asfáltico,t,Pavimentadora,8,324.91,312.56,96.2,8.11,0.55,60107.54,62375.86,Sin incidencia,Conforme
+OV-00623,2026-07-18,Frente 02,Base granular,m3,Excavadora,5,450.84,315.39,69.96,8.72,0.99,17131.74,12549.52,Sin incidencia,Conforme
+OV-00624,2026-07-18,Frente 01,Subbase granular,m3,Cargador frontal,4,563.76,506.59,89.86,8.66,0.0,18040.44,17486.22,Sin incidencia,Conforme
+OV-00625,2026-07-18,Frente 01,Excavación roca fija,m3,Cargador frontal,8,470.4,420.36,89.36,7.4,1.35,13171.2,12599.86,Clima,Conforme
+OV-00626,2026-07-19,Frente 01,Excavación material suelto,m3,Rodillo,8,993.28,1058.16,106.53,8.42,0.69,9436.14,10776.18,Abastecimiento de material,Observado
+OV-00627,2026-07-19,Frente 01,Excavación roca fija,m3,Cargador frontal,9,402.92,331.63,82.31,7.25,0.21,11281.9,9561.04,Espera de topografía,Conforme
+OV-00628,2026-07-20,Frente 03,Pavimento asfáltico,t,Volquete,9,307.03,245.4,79.93,11.14,1.09,56800.82,45597.76,Clima,Conforme
+OV-00629,2026-07-20,Frente 01,Desbroce y limpieza,m2,Pavimentadora,5,1772.07,1951.95,110.15,10.22,0.62,4961.78,5982.3,Espera de topografía,Conforme
+OV-00630,2026-07-20,Frente 02,Subbase granular,m3,Rodillo,6,493.8,499.04,101.06,9.77,0.57,15801.75,16454.55,Espera de topografía,Conforme
+OV-00631,2026-07-21,Frente 01,Desbroce y limpieza,m2,Cargador frontal,6,2002.25,1928.09,96.3,11.27,1.14,5606.29,5754.21,Sin incidencia,Conforme
+OV-00632,2026-07-21,Frente 03,Cunetas de concreto,m,Cargador frontal,4,113.85,123.28,108.29,10.9,0.31,16508.16,18824.07,Abastecimiento de material,Conforme
+OV-00633,2026-07-21,Frente 02,Pavimento asfáltico,t,Rodillo,4,309.5,298.26,96.37,10.02,0.58,57257.92,56329.99,Sin incidencia,Observado
+OV-00634,2026-07-22,Frente 03,Excavación roca fija,m3,Volquete,5,429.12,452.45,105.44,9.9,1.2,12015.34,13760.77,Abastecimiento de material,Conforme
+OV-00635,2026-07-22,Frente 01,Cunetas de concreto,m,Motoniveladora,6,108.48,104.37,96.21,9.36,0.86,15729.42,16569.87,Sin incidencia,Conforme
+OV-00636,2026-07-22,Frente 01,Desbroce y limpieza,m2,Cargador frontal,8,1850.84,1485.51,80.26,10.01,1.15,5182.36,4416.93,Clima,Conforme
+OV-00637,2026-07-23,Frente 02,Cunetas de concreto,m,Volquete,6,116.49,87.86,75.42,9.68,0.55,16890.67,13828.89,Sin incidencia,Conforme
+OV-00638,2026-07-23,Frente 02,Excavación material suelto,m3,Rodillo,5,933.94,939.89,100.64,9.42,1.21,8872.45,9194.69,Sin incidencia,Conforme
+OV-00639,2026-07-23,Frente 02,Desbroce y limpieza,m2,Volquete,5,1820.6,1840.46,101.09,9.87,0.29,5097.67,5283.41,Cambio de frente,Conforme
+OV-00640,2026-07-23,Frente 01,Excavación roca fija,m3,Excavadora,8,441.72,442.91,100.27,7.86,0.19,12368.26,13163.24,Sin incidencia,Conforme
+OV-00641,2026-07-24,Frente 02,Cunetas de concreto,m,Volquete,7,122.15,99.5,81.45,9.45,0.23,17712.3,14792.1,Sin incidencia,Conforme
+OV-00642,2026-07-24,Frente 01,Pavimento asfáltico,t,Cargador frontal,8,310.37,357.03,115.04,9.66,0.13,57417.82,67178.77,Falla mecánica,Conforme
+OV-00643,2026-07-25,Frente 03,Excavación material suelto,m3,Pavimentadora,6,988.07,1095.01,110.82,9.39,0.82,9386.64,10836.61,Sin incidencia,Conforme
+OV-00644,2026-07-25,Frente 02,Desbroce y limpieza,m2,Rodillo,6,2016.0,2178.32,108.05,6.26,0.0,5644.8,6379.62,Clima,Conforme
+OV-00645,2026-07-26,Frente 03,Base granular,m3,Motoniveladora,6,451.12,337.36,74.78,9.71,0.67,17142.45,13996.71,Falla mecánica,Observado
+OV-00646,2026-07-26,Frente 01,Pavimento asfáltico,t,Pavimentadora,5,320.85,302.15,94.17,10.08,0.33,59357.97,57094.55,Sin incidencia,Conforme
+OV-00647,2026-07-26,Frente 01,Cunetas de concreto,m,Excavadora,6,121.06,122.04,100.81,11.96,0.26,17553.2,17818.16,Sin incidencia,Conforme
+OV-00648,2026-07-26,Frente 02,Excavación roca fija,m3,Pavimentadora,9,450.42,409.81,90.98,9.88,0.16,12611.79,11625.08,Sin incidencia,Conforme
+OV-00649,2026-07-27,Frente 03,Desbroce y limpieza,m2,Rodillo,8,1654.11,1709.8,103.37,11.75,0.0,4631.51,5117.96,Sin incidencia,Observado
+OV-00650,2026-07-27,Frente 01,Cunetas de concreto,m,Pavimentadora,6,123.4,84.78,68.7,9.63,0.0,17892.88,13265.15,Sin incidencia,Conforme
+OV-00651,2026-07-28,Frente 03,Excavación roca fija,m3,Pavimentadora,7,456.23,357.08,78.27,8.37,0.52,12774.57,10146.83,Sin incidencia,Conforme
+OV-00652,2026-07-28,Frente 01,Cunetas de concreto,m,Volquete,8,118.01,129.98,110.14,8.36,1.31,17111.97,20499.83,Cambio de frente,Conforme
+OV-00653,2026-07-28,Frente 02,Desbroce y limpieza,m2,Rodillo,4,1901.75,1991.17,104.7,10.31,0.77,5324.89,5580.75,Sin incidencia,Conforme
+OV-00654,2026-07-29,Frente 01,Desbroce y limpieza,m2,Cargador frontal,9,1724.97,1798.11,104.24,6.95,0.92,4829.92,5346.93,Sin incidencia,Conforme
+OV-00655,2026-07-29,Frente 01,Pavimento asfáltico,t,Excavadora,4,311.43,285.85,91.79,8.68,1.04,57615.13,57054.85,Sin incidencia,Conforme
+OV-00656,2026-07-29,Frente 01,Excavación material suelto,m3,Motoniveladora,8,926.85,735.25,79.33,7.4,0.91,8805.09,7308.78,Abastecimiento de material,Conforme
+OV-00657,2026-07-29,Frente 03,Cunetas de concreto,m,Pavimentadora,8,118.21,107.53,90.97,8.93,1.23,17140.07,16328.82,Sin incidencia,Conforme
+OV-00658,2026-07-30,Frente 01,Excavación material suelto,m3,Rodillo,8,916.8,920.86,100.44,9.87,0.74,8709.57,9398.91,Sin incidencia,Conforme
+OV-00659,2026-07-30,Frente 02,Cunetas de concreto,m,Cargador frontal,8,121.33,140.83,116.08,7.11,1.8,17592.25,20943.55,Sin incidencia,Conforme
+OV-00660,2026-07-30,Frente 01,Base granular,m3,Cargador frontal,6,491.29,466.69,94.99,8.53,0.0,18668.92,19002.31,Sin incidencia,Conforme
+OV-00661,2026-07-31,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,308.74,225.53,73.05,11.29,1.62,57116.26,45621.92,Sin incidencia,Conforme
+OV-00662,2026-07-31,Frente 03,Base granular,m3,Volquete,9,445.73,534.87,120.0,9.95,0.73,16937.68,21610.05,Espera de topografía,Conforme
+OV-00663,2026-07-31,Frente 03,Cunetas de concreto,m,Pavimentadora,5,123.3,96.65,78.39,6.73,0.84,17878.69,14623.05,Cambio de frente,Conforme
+OV-00664,2026-07-31,Frente 03,Excavación material suelto,m3,Excavadora,5,975.64,740.67,75.92,8.98,1.12,9268.61,7276.78,Abastecimiento de material,Observado
+OV-00665,2026-08-01,Frente 03,Subbase granular,m3,Pavimentadora,8,468.81,548.05,116.9,8.14,0.93,15001.79,17716.34,Sin incidencia,Conforme
+OV-00666,2026-08-01,Frente 03,Excavación material suelto,m3,Excavadora,4,967.55,961.14,99.34,10.5,0.1,9191.7,9966.69,Sin incidencia,Conforme
+OV-00667,2026-08-01,Frente 01,Base granular,m3,Motoniveladora,6,488.21,450.07,92.19,9.18,1.23,18551.84,18334.85,Sin incidencia,Conforme
+OV-00668,2026-08-01,Frente 02,Desbroce y limpieza,m2,Rodillo,5,1856.68,1829.64,98.54,8.54,0.58,5198.7,5494.18,Sin incidencia,Conforme
+OV-00669,2026-08-02,Frente 01,Base granular,m3,Excavadora,6,460.08,377.82,82.12,8.63,0.83,17483.13,15060.83,Sin incidencia,Conforme
+OV-00670,2026-08-02,Frente 02,Pavimento asfáltico,t,Pavimentadora,6,339.05,331.07,97.65,9.91,0.8,62724.25,61264.28,Sin incidencia,Conforme
+OV-00671,2026-08-02,Frente 01,Excavación roca fija,m3,Excavadora,5,409.97,385.65,94.07,9.49,1.03,11479.12,11689.15,Sin incidencia,Conforme
+OV-00672,2026-08-02,Frente 03,Desbroce y limpieza,m2,Rodillo,8,1792.72,1476.68,82.37,9.87,1.35,5019.62,4270.65,Clima,Conforme
+OV-00673,2026-08-03,Frente 02,Base granular,m3,Cargador frontal,9,461.46,468.45,101.52,9.28,0.8,17535.34,18893.08,Sin incidencia,Conforme
+OV-00674,2026-08-03,Frente 01,Pavimento asfáltico,t,Pavimentadora,4,313.32,269.19,85.92,9.35,0.72,57963.62,51685.76,Falla mecánica,Conforme
+OV-00675,2026-08-03,Frente 03,Cunetas de concreto,m,Excavadora,9,118.27,110.45,93.39,6.7,0.5,17148.95,17005.58,Cambio de frente,Conforme
+OV-00676,2026-08-04,Frente 02,Subbase granular,m3,Excavadora,8,478.17,437.04,91.4,8.99,0.4,15301.34,14263.62,Sin incidencia,Conforme
+OV-00677,2026-08-04,Frente 01,Excavación roca fija,m3,Motoniveladora,9,434.38,323.86,74.56,6.86,0.27,12162.55,9832.58,Sin incidencia,Conforme
+OV-00678,2026-08-04,Frente 03,Pavimento asfáltico,t,Volquete,7,301.08,323.57,107.47,10.58,0.83,55699.97,61995.54,Sin incidencia,Conforme
+OV-00679,2026-08-04,Frente 01,Cunetas de concreto,m,Motoniveladora,8,110.86,83.94,75.72,8.99,0.44,16074.1,12872.56,Falla mecánica,Conforme
+OV-00680,2026-08-05,Frente 02,Desbroce y limpieza,m2,Rodillo,4,1895.17,1909.88,100.78,9.38,0.18,5306.47,5511.08,Sin incidencia,Conforme
+OV-00681,2026-08-05,Frente 01,Excavación roca fija,m3,Motoniveladora,8,389.06,291.75,74.99,9.63,0.35,10893.59,8832.05,Sin incidencia,Observado
+OV-00682,2026-08-05,Frente 03,Subbase granular,m3,Volquete,4,546.17,511.22,93.6,7.34,0.96,17477.33,17862.47,Cambio de frente,Conforme
+OV-00683,2026-08-06,Frente 03,Cunetas de concreto,m,Volquete,9,109.4,94.17,86.08,8.17,1.09,15863.42,14844.11,Espera de topografía,Conforme
+OV-00684,2026-08-06,Frente 01,Excavación material suelto,m3,Rodillo,6,1000.29,1095.8,109.55,8.88,1.09,9502.73,10781.53,Clima,Conforme
+OV-00685,2026-08-07,Frente 03,Subbase granular,m3,Motoniveladora,6,543.75,423.43,77.87,10.08,1.35,17399.93,13990.19,Sin incidencia,Conforme
+OV-00686,2026-08-07,Frente 01,Excavación material suelto,m3,Rodillo,6,972.4,775.93,79.8,10.86,0.23,9237.76,7768.42,Espera de topografía,Conforme
+OV-00687,2026-08-07,Frente 01,Cunetas de concreto,m,Pavimentadora,9,115.47,96.72,83.76,10.14,0.57,16742.54,14710.58,Falla mecánica,Conforme
+OV-00688,2026-08-07,Frente 03,Pavimento asfáltico,t,Excavadora,5,297.98,295.59,99.2,10.12,1.02,55126.01,55336.18,Sin incidencia,Conforme
+OV-00689,2026-08-08,Frente 01,Subbase granular,m3,Cargador frontal,6,494.83,375.22,75.83,10.64,0.0,15834.66,12767.89,Sin incidencia,Conforme
+OV-00690,2026-08-08,Frente 03,Pavimento asfáltico,t,Rodillo,8,330.0,363.79,110.24,9.17,0.34,61050.39,69093.07,Sin incidencia,Conforme
+OV-00691,2026-08-09,Frente 03,Subbase granular,m3,Cargador frontal,6,530.9,539.43,101.61,10.14,0.0,16988.96,18585.91,Sin incidencia,Conforme
+OV-00692,2026-08-09,Frente 02,Base granular,m3,Volquete,6,470.98,480.45,102.01,7.72,0.0,17897.15,19350.19,Sin incidencia,Conforme
+OV-00693,2026-08-10,Frente 02,Base granular,m3,Cargador frontal,6,466.17,443.44,95.12,8.64,1.03,17714.55,17599.88,Sin incidencia,Conforme
+OV-00694,2026-08-10,Frente 03,Cunetas de concreto,m,Rodillo,9,118.13,82.44,69.79,8.23,0.54,17128.45,12170.76,Sin incidencia,Conforme
+OV-00695,2026-08-10,Frente 03,Excavación material suelto,m3,Cargador frontal,6,978.36,986.35,100.82,8.8,0.0,9294.42,9625.29,Cambio de frente,Conforme
+OV-00696,2026-08-10,Frente 02,Subbase granular,m3,Cargador frontal,8,518.55,555.09,107.05,9.07,1.43,16593.68,18444.52,Sin incidencia,Conforme
+OV-00697,2026-08-11,Frente 01,Cunetas de concreto,m,Motoniveladora,8,116.44,95.18,81.74,9.56,0.34,16884.11,15026.68,Sin incidencia,Conforme
+OV-00698,2026-08-11,Frente 01,Excavación roca fija,m3,Rodillo,7,420.48,329.24,78.3,8.64,0.0,11773.5,9892.37,Sin incidencia,Conforme
+OV-00699,2026-08-12,Frente 01,Pavimento asfáltico,t,Pavimentadora,7,331.29,261.52,78.94,8.52,1.43,61289.55,50078.62,Sin incidencia,Conforme
+OV-00700,2026-08-12,Frente 01,Base granular,m3,Cargador frontal,5,504.78,605.73,120.0,9.92,0.95,19181.52,23754.32,Sin incidencia,Conforme
+OV-00701,2026-08-12,Frente 02,Subbase granular,m3,Cargador frontal,9,512.02,605.59,118.27,11.63,0.56,16384.65,21085.54,Sin incidencia,Conforme
+OV-00702,2026-08-12,Frente 01,Excavación roca fija,m3,Volquete,4,406.9,273.68,67.26,8.38,1.08,11393.21,7823.61,Sin incidencia,Conforme
+OV-00703,2026-08-13,Frente 02,Excavación material suelto,m3,Pavimentadora,8,975.43,939.34,96.3,9.19,0.83,9266.54,9157.12,Falla mecánica,Conforme
+OV-00704,2026-08-13,Frente 02,Excavación roca fija,m3,Excavadora,4,417.68,414.07,99.13,8.36,0.51,11695.16,12049.65,Abastecimiento de material,Conforme
+OV-00705,2026-08-13,Frente 03,Pavimento asfáltico,t,Cargador frontal,4,305.87,260.01,85.01,9.94,0.79,56586.04,49744.7,Sin incidencia,Conforme
+OV-00706,2026-08-13,Frente 01,Cunetas de concreto,m,Pavimentadora,7,110.21,116.58,105.78,9.27,0.43,15980.64,17685.16,Sin incidencia,Conforme
+OV-00707,2026-08-14,Frente 01,Base granular,m3,Excavadora,4,461.77,483.1,104.62,8.05,0.37,17547.32,18852.37,Sin incidencia,Conforme
+OV-00708,2026-08-14,Frente 01,Subbase granular,m3,Excavadora,4,524.17,482.07,91.97,8.95,0.44,16773.52,15697.41,Sin incidencia,Conforme
+OV-00709,2026-08-15,Frente 03,Excavación roca fija,m3,Cargador frontal,9,396.09,319.87,80.76,8.05,0.23,11090.4,9733.49,Clima,Conforme
+OV-00710,2026-08-15,Frente 02,Pavimento asfáltico,t,Excavadora,8,301.68,262.01,86.85,9.55,0.8,55810.69,52791.18,Sin incidencia,Conforme
+OV-00711,2026-08-16,Frente 02,Subbase granular,m3,Cargador frontal,9,512.87,440.91,85.97,7.9,0.53,16411.71,15115.23,Espera de topografía,Conforme
+OV-00712,2026-08-16,Frente 03,Cunetas de concreto,m,Volquete,8,106.68,107.03,100.33,8.99,1.15,15468.15,16239.03,Sin incidencia,Conforme
+OV-00713,2026-08-17,Frente 03,Excavación material suelto,m3,Rodillo,5,918.22,1000.66,108.98,8.43,0.52,8723.08,9936.13,Espera de topografía,Conforme
+OV-00714,2026-08-17,Frente 01,Cunetas de concreto,m,Excavadora,8,114.34,114.22,99.89,8.76,0.49,16579.73,17266.1,Sin incidencia,Conforme
+OV-00715,2026-08-17,Frente 03,Desbroce y limpieza,m2,Pavimentadora,9,1799.31,1680.11,93.37,9.03,1.26,5038.08,5051.89,Sin incidencia,Conforme
+OV-00716,2026-08-18,Frente 03,Desbroce y limpieza,m2,Pavimentadora,7,1825.15,1573.77,86.23,8.47,0.15,5110.42,4502.04,Abastecimiento de material,Conforme
+OV-00717,2026-08-18,Frente 03,Pavimento asfáltico,t,Rodillo,8,315.55,293.8,93.11,9.09,0.48,58376.16,56207.15,Sin incidencia,Conforme
+OV-00718,2026-08-18,Frente 01,Base granular,m3,Pavimentadora,5,464.82,506.95,109.06,8.79,0.5,17662.98,20433.21,Sin incidencia,Conforme
+OV-00719,2026-08-19,Frente 03,Cunetas de concreto,m,Motoniveladora,5,109.09,78.17,71.65,9.59,0.76,15817.84,11806.07,Abastecimiento de material,Conforme
+OV-00720,2026-08-19,Frente 03,Excavación roca fija,m3,Motoniveladora,4,415.17,267.21,64.36,8.94,0.0,11624.87,7920.95,Sin incidencia,Observado
+OV-00721,2026-08-19,Frente 02,Subbase granular,m3,Pavimentadora,9,516.2,409.3,79.29,10.7,1.14,16518.33,13406.66,Sin incidencia,Conforme
+OV-00722,2026-08-19,Frente 03,Excavación material suelto,m3,Excavadora,5,963.16,1007.13,104.57,8.21,1.35,9149.99,9579.65,Falla mecánica,Conforme
+OV-00723,2026-08-20,Frente 01,Desbroce y limpieza,m2,Pavimentadora,5,1686.85,1369.99,81.22,9.48,0.71,4723.18,3849.87,Sin incidencia,Conforme
+OV-00724,2026-08-20,Frente 02,Pavimento asfáltico,t,Motoniveladora,8,306.62,276.77,90.27,9.26,0.48,56724.45,54212.74,Abastecimiento de material,Conforme
+OV-00725,2026-08-20,Frente 03,Subbase granular,m3,Motoniveladora,9,543.29,446.84,82.25,9.74,1.14,17385.19,15175.43,Espera de topografía,Conforme
+OV-00726,2026-08-21,Frente 02,Pavimento asfáltico,t,Cargador frontal,8,330.03,349.79,105.99,12.0,0.33,61056.12,67755.33,Sin incidencia,Conforme
+OV-00727,2026-08-21,Frente 03,Excavación roca fija,m3,Excavadora,5,453.26,541.96,119.57,9.85,0.71,12691.3,16040.92,Sin incidencia,Conforme
+OV-00728,2026-08-21,Frente 02,Cunetas de concreto,m,Excavadora,8,123.16,125.62,101.99,8.17,1.39,17858.82,18772.29,Sin incidencia,Observado
+OV-00729,2026-08-22,Frente 02,Excavación roca fija,m3,Rodillo,7,407.09,344.81,84.7,10.16,0.77,11398.56,9823.93,Falla mecánica,Conforme
+OV-00730,2026-08-22,Frente 03,Cunetas de concreto,m,Motoniveladora,9,121.53,99.81,82.13,8.33,0.83,17621.69,15840.0,Falla mecánica,Conforme
+OV-00731,2026-08-23,Frente 02,Subbase granular,m3,Motoniveladora,6,537.53,452.29,84.14,11.76,1.19,17201.1,15223.83,Falla mecánica,Conforme
+OV-00732,2026-08-23,Frente 01,Cunetas de concreto,m,Volquete,9,112.89,85.58,75.8,9.7,1.53,16369.56,13135.24,Sin incidencia,Conforme
+OV-00733,2026-08-23,Frente 03,Excavación material suelto,m3,Pavimentadora,6,985.13,870.53,88.37,8.32,1.22,9358.74,8709.46,Sin incidencia,Conforme
+OV-00734,2026-08-24,Frente 02,Subbase granular,m3,Cargador frontal,9,577.53,465.97,80.68,7.37,1.12,18480.88,16121.25,Clima,Conforme
+OV-00735,2026-08-24,Frente 03,Desbroce y limpieza,m2,Motoniveladora,7,1783.58,1937.15,108.61,7.59,0.23,4994.01,5575.61,Sin incidencia,Conforme
+OV-00736,2026-08-24,Frente 01,Base granular,m3,Motoniveladora,8,464.29,380.09,81.86,8.18,0.88,17642.9,15181.94,Sin incidencia,Conforme
+OV-00737,2026-08-25,Frente 03,Cunetas de concreto,m,Motoniveladora,5,114.12,94.29,82.62,8.78,1.18,16547.69,14409.91,Sin incidencia,Conforme
+OV-00738,2026-08-25,Frente 03,Base granular,m3,Excavadora,6,446.88,343.16,76.79,10.29,0.0,16981.62,13969.98,Sin incidencia,Conforme
+OV-00739,2026-08-25,Frente 02,Excavación roca fija,m3,Pavimentadora,4,431.41,421.18,97.63,8.73,0.0,12079.37,12459.73,Sin incidencia,Conforme
+OV-00740,2026-08-25,Frente 03,Desbroce y limpieza,m2,Motoniveladora,9,1871.07,1919.27,102.58,9.83,0.65,5238.99,5410.58,Sin incidencia,Observado
+OV-00741,2026-08-26,Frente 02,Subbase granular,m3,Rodillo,6,530.28,434.63,81.96,7.58,0.93,16968.91,14039.93,Cambio de frente,Conforme
+OV-00742,2026-08-26,Frente 03,Pavimento asfáltico,t,Motoniveladora,4,335.99,246.33,73.31,9.2,0.44,62157.25,49308.77,Abastecimiento de material,Conforme
+OV-00743,2026-08-26,Frente 01,Cunetas de concreto,m,Rodillo,4,120.04,87.71,73.06,10.03,1.98,17406.24,13158.79,Sin incidencia,Conforme
+OV-00744,2026-08-27,Frente 02,Base granular,m3,Rodillo,9,449.68,387.56,86.19,10.99,0.65,17087.71,15424.88,Sin incidencia,Conforme
+OV-00745,2026-08-27,Frente 03,Subbase granular,m3,Volquete,8,498.65,497.76,99.82,7.9,1.53,15956.86,16462.42,Sin incidencia,Conforme
+OV-00746,2026-08-27,Frente 02,Cunetas de concreto,m,Excavadora,7,112.04,89.86,80.2,8.24,0.24,16246.34,13038.61,Sin incidencia,Conforme
+OV-00747,2026-08-27,Frente 03,Pavimento asfáltico,t,Motoniveladora,5,304.75,314.96,103.35,8.71,0.0,56379.11,62078.48,Cambio de frente,Conforme
+OV-00748,2026-08-28,Frente 02,Excavación roca fija,m3,Rodillo,4,411.42,369.31,89.76,7.94,0.61,11519.88,10496.45,Clima,Conforme
+OV-00749,2026-08-28,Frente 01,Base granular,m3,Cargador frontal,5,463.36,376.73,81.3,8.25,0.67,17607.7,15100.26,Sin incidencia,Conforme
+OV-00750,2026-08-29,Frente 03,Excavación material suelto,m3,Pavimentadora,6,904.31,690.8,76.39,8.4,0.71,8590.92,6776.81,Cambio de frente,Conforme
+OV-00751,2026-08-29,Frente 03,Excavación roca fija,m3,Pavimentadora,9,378.71,301.89,79.72,7.75,0.61,10603.82,8754.09,Sin incidencia,Conforme
+OV-00752,2026-08-29,Frente 02,Cunetas de concreto,m,Excavadora,5,128.8,122.34,94.98,8.54,0.0,18676.0,18946.49,Sin incidencia,Conforme
+OV-00753,2026-08-29,Frente 01,Base granular,m3,Rodillo,7,439.59,387.07,88.05,9.61,1.05,16704.43,15014.32,Sin incidencia,Conforme
+OV-00754,2026-08-30,Frente 02,Excavación material suelto,m3,Cargador frontal,6,1005.69,822.8,81.81,8.65,1.04,9554.06,8490.13,Sin incidencia,Conforme
+OV-00755,2026-08-30,Frente 03,Cunetas de concreto,m,Pavimentadora,7,108.38,106.94,98.67,8.99,0.93,15715.32,15954.78,Cambio de frente,Observado
+OV-00756,2026-08-31,Frente 01,Subbase granular,m3,Cargador frontal,4,551.8,497.32,90.13,8.3,1.11,17657.46,17479.0,Sin incidencia,Observado
+OV-00757,2026-08-31,Frente 03,Base granular,m3,Excavadora,5,496.98,313.22,63.02,10.45,0.11,18885.24,12909.64,Sin incidencia,Conforme
+OV-00758,2026-08-31,Frente 01,Excavación material suelto,m3,Volquete,5,884.91,986.95,111.53,8.46,0.66,8406.68,10267.59,Cambio de frente,Conforme
+OV-00759,2026-09-01,Frente 03,Cunetas de concreto,m,Excavadora,6,120.61,126.35,104.75,9.4,0.89,17489.01,18642.48,Sin incidencia,Conforme
+OV-00760,2026-09-01,Frente 01,Subbase granular,m3,Excavadora,7,484.02,348.08,71.91,9.71,0.61,15488.6,11792.91,Sin incidencia,Conforme
+OV-00761,2026-09-01,Frente 03,Excavación material suelto,m3,Excavadora,5,1008.73,661.64,65.59,6.76,0.36,9582.9,6362.16,Sin incidencia,Conforme
+OV-00762,2026-09-01,Frente 02,Excavación roca fija,m3,Cargador frontal,6,414.65,414.23,99.9,11.23,0.44,11610.28,12339.27,Sin incidencia,Conforme
+OV-00763,2026-09-02,Frente 02,Excavación material suelto,m3,Rodillo,8,945.6,726.72,76.85,9.95,0.92,8983.22,6910.92,Falla mecánica,Conforme
+OV-00764,2026-09-02,Frente 03,Excavación roca fija,m3,Excavadora,5,446.68,453.77,101.59,9.91,1.03,12506.98,13731.62,Abastecimiento de material,Conforme
+OV-00765,2026-09-02,Frente 01,Subbase granular,m3,Cargador frontal,4,568.36,430.41,75.73,9.06,1.05,18187.38,15105.69,Falla mecánica,Conforme
+OV-00766,2026-09-02,Frente 02,Pavimento asfáltico,t,Excavadora,9,335.43,277.17,82.63,8.2,0.0,62054.92,51595.75,Sin incidencia,Conforme
+OV-00767,2026-09-03,Frente 03,Pavimento asfáltico,t,Rodillo,4,300.37,245.13,81.61,10.36,0.73,55568.86,48577.31,Espera de topografía,Conforme
+OV-00768,2026-09-03,Frente 02,Cunetas de concreto,m,Excavadora,4,104.24,116.69,111.94,11.14,0.64,15115.15,17298.04,Sin incidencia,Conforme
+OV-00769,2026-09-03,Frente 01,Excavación material suelto,m3,Excavadora,6,973.03,938.41,96.44,10.53,1.38,9243.81,9388.19,Sin incidencia,Conforme
+OV-00770,2026-09-03,Frente 03,Subbase granular,m3,Cargador frontal,5,457.6,344.84,75.36,8.29,1.1,14643.2,11665.95,Sin incidencia,Conforme
+OV-00771,2026-09-04,Frente 02,Base granular,m3,Excavadora,4,461.53,381.87,82.74,10.38,0.85,17538.0,14870.89,Falla mecánica,Conforme
+OV-00772,2026-09-04,Frente 02,Cunetas de concreto,m,Rodillo,7,113.39,88.01,77.62,10.19,0.33,16441.39,12778.79,Sin incidencia,Conforme
+OV-00773,2026-09-05,Frente 03,Subbase granular,m3,Excavadora,5,529.02,517.01,97.73,7.62,0.0,16928.49,17033.29,Sin incidencia,Conforme
+OV-00774,2026-09-05,Frente 02,Base granular,m3,Excavadora,7,439.05,299.86,68.3,8.77,0.85,16683.82,12455.8,Cambio de frente,Conforme
+OV-00775,2026-09-06,Frente 01,Cunetas de concreto,m,Rodillo,5,106.31,107.34,100.97,11.04,0.25,15415.53,16827.02,Sin incidencia,Conforme
+OV-00776,2026-09-06,Frente 03,Pavimento asfáltico,t,Volquete,8,291.97,283.03,96.94,9.65,0.0,54013.69,53940.24,Cambio de frente,Conforme
+OV-00777,2026-09-06,Frente 03,Excavación material suelto,m3,Cargador frontal,5,993.55,739.21,74.4,10.17,1.18,9438.76,7212.28,Cambio de frente,Conforme
+OV-00778,2026-09-07,Frente 03,Cunetas de concreto,m,Cargador frontal,9,118.62,109.97,92.71,9.19,0.15,17200.0,17421.28,Sin incidencia,Conforme
+OV-00779,2026-09-07,Frente 01,Desbroce y limpieza,m2,Excavadora,7,1815.63,1739.83,95.83,8.91,0.0,5083.76,5058.45,Sin incidencia,Conforme
+OV-00780,2026-09-07,Frente 01,Excavación roca fija,m3,Motoniveladora,5,408.69,490.43,120.0,8.24,0.0,11443.27,13884.73,Sin incidencia,Conforme
+OV-00781,2026-09-08,Frente 03,Cunetas de concreto,m,Cargador frontal,7,109.11,102.2,93.67,9.87,1.07,15820.75,15771.97,Sin incidencia,Conforme
+OV-00782,2026-09-08,Frente 03,Desbroce y limpieza,m2,Motoniveladora,8,1584.0,1343.98,84.85,8.32,0.97,4435.2,3878.63,Abastecimiento de material,Conforme
+OV-00783,2026-09-08,Frente 01,Pavimento asfáltico,t,Rodillo,4,289.29,225.7,78.02,9.9,0.59,53517.94,42471.59,Cambio de frente,Conforme
+OV-00784,2026-09-08,Frente 03,Subbase granular,m3,Volquete,8,569.79,585.15,102.7,8.76,1.48,18233.16,18988.63,Abastecimiento de material,Conforme
+OV-00785,2026-09-09,Frente 02,Pavimento asfáltico,t,Motoniveladora,6,307.4,288.92,93.99,8.23,0.74,56868.54,54661.46,Sin incidencia,Conforme
+OV-00786,2026-09-09,Frente 03,Excavación material suelto,m3,Rodillo,9,903.74,970.38,107.37,11.24,0.0,8585.51,10104.24,Sin incidencia,Conforme
+OV-00787,2026-09-10,Frente 03,Pavimento asfáltico,t,Pavimentadora,8,321.56,347.61,108.1,6.82,0.67,59488.84,66031.1,Abastecimiento de material,Conforme
+OV-00788,2026-09-10,Frente 03,Desbroce y limpieza,m2,Excavadora,6,1762.27,1721.79,97.7,10.86,1.14,4934.37,4943.72,Sin incidencia,Conforme
+OV-00789,2026-09-10,Frente 03,Excavación material suelto,m3,Motoniveladora,5,944.57,941.24,99.65,10.07,0.23,8973.38,9203.62,Sin incidencia,Conforme
+OV-00790,2026-09-10,Frente 01,Cunetas de concreto,m,Rodillo,4,105.94,113.46,107.11,10.28,1.37,15360.79,18036.97,Sin incidencia,Conforme
+OV-00791,2026-09-11,Frente 02,Base granular,m3,Volquete,6,487.47,386.74,79.34,9.16,1.06,18523.97,15228.08,Sin incidencia,Conforme
+OV-00792,2026-09-11,Frente 02,Desbroce y limpieza,m2,Cargador frontal,7,1770.86,1663.04,93.91,8.98,0.48,4958.4,5066.62,Cambio de frente,Conforme
+OV-00793,2026-09-11,Frente 01,Subbase granular,m3,Volquete,6,504.93,437.71,86.69,8.86,0.0,16157.77,14051.93,Sin incidencia,Conforme
+OV-00794,2026-09-11,Frente 01,Cunetas de concreto,m,Pavimentadora,7,120.01,102.39,85.32,9.32,1.42,17401.07,15587.49,Falla mecánica,Conforme
+OV-00795,2026-09-12,Frente 01,Desbroce y limpieza,m2,Rodillo,9,1640.69,1515.7,92.38,7.61,0.14,4593.93,4513.0,Sin incidencia,Conforme
+OV-00796,2026-09-12,Frente 03,Pavimento asfáltico,t,Volquete,4,312.15,281.96,90.33,10.21,1.17,57747.57,57333.13,Abastecimiento de material,Conforme
+OV-00797,2026-09-12,Frente 01,Excavación roca fija,m3,Excavadora,7,387.63,342.05,88.24,9.46,1.01,10853.78,9734.13,Sin incidencia,Conforme
+OV-00798,2026-09-13,Frente 03,Cunetas de concreto,m,Cargador frontal,7,119.88,79.54,66.35,7.65,0.0,17382.02,12048.68,Abastecimiento de material,Conforme
+OV-00799,2026-09-13,Frente 03,Subbase granular,m3,Pavimentadora,5,567.87,486.61,85.69,9.74,0.01,18171.9,15768.21,Sin incidencia,Conforme
+OV-00800,2026-09-13,Frente 01,Desbroce y limpieza,m2,Pavimentadora,5,1660.77,1817.05,109.41,9.87,1.06,4650.15,5329.95,Abastecimiento de material,Conforme
+OV-00801,2026-09-14,Frente 02,Excavación roca fija,m3,Volquete,8,385.3,418.78,108.69,10.13,1.66,10788.36,12378.87,Sin incidencia,Conforme
+OV-00802,2026-09-14,Frente 03,Pavimento asfáltico,t,Pavimentadora,9,311.09,294.69,94.73,8.36,1.29,57552.55,57869.06,Cambio de frente,Conforme
+OV-00803,2026-09-14,Frente 03,Subbase granular,m3,Motoniveladora,7,560.07,353.74,63.16,9.77,1.34,17922.23,12125.67,Espera de topografía,Conforme
+OV-00804,2026-09-14,Frente 03,Cunetas de concreto,m,Cargador frontal,4,113.82,86.28,75.8,8.77,1.33,16504.59,12573.9,Cambio de frente,Conforme
+OV-00805,2026-09-15,Frente 01,Excavación roca fija,m3,Rodillo,9,429.81,460.06,107.04,6.14,0.97,12034.68,13745.68,Sin incidencia,Conforme
+OV-00806,2026-09-15,Frente 03,Subbase granular,m3,Volquete,5,522.98,475.97,91.01,11.14,0.0,16735.26,16455.09,Sin incidencia,Conforme
+OV-00807,2026-09-15,Frente 01,Cunetas de concreto,m,Volquete,9,109.12,77.9,71.39,8.82,0.72,15823.01,11752.16,Sin incidencia,Conforme
+OV-00808,2026-09-16,Frente 03,Cunetas de concreto,m,Motoniveladora,9,114.97,117.34,102.06,11.19,1.06,16670.29,17023.26,Sin incidencia,Conforme
+OV-00809,2026-09-16,Frente 01,Excavación roca fija,m3,Volquete,6,416.73,289.03,69.36,7.69,0.62,11668.36,8229.03,Falla mecánica,Conforme
+OV-00810,2026-09-17,Frente 03,Subbase granular,m3,Motoniveladora,7,562.27,410.88,73.08,7.94,0.11,17992.67,13325.38,Sin incidencia,Conforme
+OV-00811,2026-09-17,Frente 03,Excavación roca fija,m3,Pavimentadora,6,443.44,513.37,115.77,7.65,0.0,12416.45,15119.79,Sin incidencia,Conforme
+OV-00812,2026-09-17,Frente 01,Cunetas de concreto,m,Rodillo,6,117.09,79.53,67.92,8.17,0.9,16977.88,11837.7,Cambio de frente,Conforme
+OV-00813,2026-09-17,Frente 03,Base granular,m3,Pavimentadora,9,469.12,507.54,108.19,8.78,0.78,17826.63,21138.51,Sin incidencia,Conforme
+OV-00814,2026-09-18,Frente 01,Excavación material suelto,m3,Volquete,8,964.66,867.65,89.94,9.43,0.0,9164.27,8975.97,Sin incidencia,Conforme
+OV-00815,2026-09-18,Frente 02,Base granular,m3,Rodillo,9,462.29,513.99,111.18,8.07,0.13,17566.94,21005.02,Sin incidencia,Conforme
+OV-00816,2026-09-18,Frente 02,Cunetas de concreto,m,Cargador frontal,7,128.8,120.43,93.5,10.38,0.65,18676.0,18690.99,Sin incidencia,Conforme
+OV-00817,2026-09-19,Frente 02,Desbroce y limpieza,m2,Cargador frontal,6,1738.58,1965.3,113.04,9.93,0.47,4868.03,5688.4,Abastecimiento de material,Conforme
+OV-00818,2026-09-19,Frente 02,Pavimento asfáltico,t,Volquete,6,284.04,269.67,94.94,8.97,0.0,52547.18,52359.57,Sin incidencia,Conforme
+OV-00819,2026-09-20,Frente 01,Excavación material suelto,m3,Cargador frontal,9,964.27,842.89,87.41,7.76,0.88,9160.58,8156.77,Sin incidencia,Conforme
+OV-00820,2026-09-20,Frente 01,Pavimento asfáltico,t,Volquete,5,311.4,327.79,105.26,9.41,0.71,57608.5,62809.72,Espera de topografía,Conforme
+OV-00821,2026-09-20,Frente 02,Cunetas de concreto,m,Motoniveladora,8,118.79,107.71,90.67,9.6,0.16,17224.71,17051.11,Sin incidencia,Conforme
+OV-00822,2026-09-21,Frente 03,Excavación material suelto,m3,Pavimentadora,9,923.8,972.17,105.24,8.96,2.17,8776.14,9942.84,Sin incidencia,Observado
+OV-00823,2026-09-21,Frente 03,Excavación roca fija,m3,Volquete,9,436.01,416.35,95.49,8.94,1.03,12208.14,12365.78,Sin incidencia,Conforme
+OV-00824,2026-09-22,Frente 01,Pavimento asfáltico,t,Cargador frontal,4,300.29,264.15,87.97,10.19,0.6,55552.89,49608.91,Abastecimiento de material,Observado
+OV-00825,2026-09-22,Frente 03,Base granular,m3,Excavadora,9,467.49,443.52,94.87,9.92,0.68,17764.6,17100.14,Clima,Conforme
+OV-00826,2026-09-22,Frente 03,Desbroce y limpieza,m2,Pavimentadora,5,1947.62,1819.6,93.43,9.99,1.45,5453.33,5441.25,Falla mecánica,Conforme
+OV-00827,2026-09-23,Frente 03,Desbroce y limpieza,m2,Motoniveladora,8,1782.2,1438.42,80.71,10.75,1.22,4990.16,4275.86,Sin incidencia,Observado
+OV-00828,2026-09-23,Frente 01,Base granular,m3,Excavadora,7,458.75,381.8,83.23,10.04,1.42,17432.57,14820.07,Abastecimiento de material,Conforme
+OV-00829,2026-09-23,Frente 03,Subbase granular,m3,Cargador frontal,7,498.28,490.08,98.35,10.63,0.37,15944.91,15958.89,Sin incidencia,Conforme
+OV-00830,2026-09-23,Frente 01,Pavimento asfáltico,t,Pavimentadora,9,304.55,216.56,71.11,8.0,0.85,56342.63,40269.28,Sin incidencia,Conforme
+OV-00831,2026-09-24,Frente 01,Base granular,m3,Cargador frontal,8,447.22,375.53,83.97,8.8,0.92,16994.26,15546.23,Sin incidencia,Conforme
+OV-00832,2026-09-24,Frente 01,Cunetas de concreto,m,Excavadora,4,115.89,91.31,78.79,8.44,1.13,16804.05,13778.97,Sin incidencia,Observado
+OV-00833,2026-09-24,Frente 01,Excavación roca fija,m3,Volquete,6,434.05,469.81,108.24,9.89,0.07,12153.43,13930.5,Falla mecánica,Conforme
+OV-00834,2026-09-25,Frente 03,Cunetas de concreto,m,Rodillo,6,115.54,98.75,85.47,10.1,0.52,16753.27,14626.78,Sin incidencia,Conforme
+OV-00835,2026-09-25,Frente 02,Desbroce y limpieza,m2,Pavimentadora,8,1727.82,1644.07,95.15,9.0,1.51,4837.89,4620.55,Clima,Conforme
+OV-00836,2026-09-25,Frente 02,Excavación material suelto,m3,Pavimentadora,4,941.35,845.6,89.83,9.67,0.46,8942.84,8258.74,Sin incidencia,Observado
+OV-00837,2026-09-26,Frente 02,Cunetas de concreto,m,Motoniveladora,9,112.52,126.01,111.99,9.43,0.37,16315.99,18744.9,Abastecimiento de material,Conforme
+OV-00838,2026-09-26,Frente 03,Pavimento asfáltico,t,Cargador frontal,5,284.09,230.87,81.26,8.55,0.83,52557.41,43718.62,Cambio de frente,Conforme
+OV-00839,2026-09-27,Frente 03,Excavación roca fija,m3,Volquete,4,461.01,532.34,115.47,8.11,0.56,12908.41,16208.85,Sin incidencia,Conforme
+OV-00840,2026-09-27,Frente 01,Base granular,m3,Cargador frontal,4,493.75,517.79,104.87,7.98,0.91,18762.52,20762.9,Sin incidencia,Observado
+OV-00841,2026-09-28,Frente 01,Excavación roca fija,m3,Motoniveladora,7,413.29,375.41,90.83,8.53,0.87,11572.14,10567.06,Sin incidencia,Conforme
+OV-00842,2026-09-28,Frente 02,Base granular,m3,Excavadora,9,475.43,396.53,83.41,6.12,1.05,18066.4,16215.14,Cambio de frente,Conforme
+OV-00843,2026-09-28,Frente 03,Cunetas de concreto,m,Volquete,8,111.64,120.21,107.68,9.48,0.86,16187.44,18484.42,Cambio de frente,Conforme
+OV-00844,2026-09-28,Frente 02,Excavación material suelto,m3,Pavimentadora,8,1018.61,736.52,72.31,9.25,0.75,9676.77,7524.47,Espera de topografía,Conforme
+OV-00845,2026-09-29,Frente 01,Pavimento asfáltico,t,Motoniveladora,8,292.29,247.87,84.8,7.47,0.12,54073.12,48678.68,Abastecimiento de material,Conforme
+OV-00846,2026-09-29,Frente 02,Excavación roca fija,m3,Pavimentadora,6,397.89,238.76,60.01,7.33,1.02,11140.8,6829.87,Sin incidencia,Conforme
+OV-00847,2026-09-29,Frente 03,Cunetas de concreto,m,Cargador frontal,9,115.87,107.22,92.54,8.31,1.2,16800.97,16249.45,Espera de topografía,Conforme
+OV-00848,2026-09-29,Frente 01,Base granular,m3,Pavimentadora,7,464.81,344.48,74.11,7.51,0.21,17662.81,13501.61,Sin incidencia,Conforme
+OV-00849,2026-09-30,Frente 01,Subbase granular,m3,Cargador frontal,7,491.2,376.03,76.55,8.57,1.47,15718.35,12299.93,Clima,Conforme
+OV-00850,2026-09-30,Frente 03,Excavación roca fija,m3,Motoniveladora,8,436.09,389.64,89.35,9.26,0.0,12210.4,10990.02,Sin incidencia,Conforme
+OV-00851,2026-09-30,Frente 03,Desbroce y limpieza,m2,Excavadora,4,1785.42,1062.48,59.51,8.12,1.3,4999.19,3166.93,Sin incidencia,Conforme
+OV-00852,2026-09-30,Frente 01,Cunetas de concreto,m,Motoniveladora,7,115.71,138.85,120.0,9.57,0.67,16777.76,20442.45,Falla mecánica,Conforme
